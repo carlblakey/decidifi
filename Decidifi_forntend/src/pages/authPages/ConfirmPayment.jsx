@@ -1,0 +1,155 @@
+import React, { useEffect } from "react";
+import { Footer, Header, Spinner } from "../../components";
+import { confirmPayment } from "../../api/payment";
+import useApi from "../../hooks/useApi";
+import { useNavigate, useSearchParams } from "react-router-dom";
+import {
+  getItem,
+  getSingleItem,
+  removeItem,
+  setObjectInLocalStorage,
+  setToken,
+} from "../../utilities/localStorageMethods";
+import {
+  EMAIL_KEY,
+  SUBSCRIPTION_PLAN,
+  USER_KEY,
+} from "../../utilities/localStorageKeys";
+import toast from "react-hot-toast";
+import { ROUTES } from "../../constants";
+import useContextHook from "../../hooks/useContextHook";
+import { getDefaultValUser } from "../../utilities/getStatesDefaultValues";
+
+const ConfirmPayment = () => {
+  const { setIsAuthenticated } = useContextHook();
+  const user = getDefaultValUser();
+  const plan = getItem(SUBSCRIPTION_PLAN);
+
+  const navigate = useNavigate();
+
+  const email = getSingleItem(EMAIL_KEY);
+
+  const [searchParams] = useSearchParams();
+
+  const session_id = searchParams.get("session_id");
+
+  const { data, isSuccess, error, errorMessage, loading, request, clearError } =
+    useApi(confirmPayment);
+
+  const handlePaymentConfirm = () => {
+    request({ session_id, email });
+  };
+
+  useEffect(() => {
+    if (session_id) {
+      handlePaymentConfirm();
+    }
+  }, []);
+
+  useEffect(() => {
+    // Show error toast only once
+    if (error) {
+      toast.dismiss();
+      toast.error(
+        "We couldn't activate your subscription. Please verify your payment details and try again"
+      );
+      clearError();
+    }
+
+    if (isSuccess) {
+      toast.dismiss();
+      const currentStatus =
+        plan.id.toUpperCase() === "UNLIMITED" ? "active" : "cancelled";
+
+      const purchasedScorecards =
+        plan.id.toUpperCase() === "SINGLE_SCORECARD"
+          ? plan.purchasedScorecards.map((id) => ({
+              currentStatus: "active",
+              scorecardId: id,
+            }))
+          : [];
+
+      setObjectInLocalStorage(USER_KEY, {
+        ...user,
+        subscription: plan.id.toUpperCase(),
+        purchasedScorecards,
+        currentStatus,
+      });
+      toast.success("Payment processed successfully and subscription assigned");
+      removeItem(EMAIL_KEY);
+      removeItem(SUBSCRIPTION_PLAN);
+      navigate(ROUTES.INDEX);
+      setToken(user.token);
+      setIsAuthenticated(true);
+    }
+  }, [error, errorMessage, isSuccess, data]);
+
+  return (
+    <div className="flex flex-col min-h-screen">
+      <Header />
+      <main className="flex-grow flex flex-col px-8">
+        <div className="max-w-7xl mx-auto">
+          <div>
+            <div
+              id="welcome-section"
+              className="flex mt-5 p-6 flex-col justify-center items-center"
+            >
+              <h1 className="text-4xl font-bold py-5 w-fit">
+                Payment Completed
+              </h1>
+              <p className="text-lg text-gray-600">
+                Thank you for your purchase! Your subscription is now active.
+              </p>
+            </div>
+            <div className="mt-5 p-6 w-10/12 mx-auto">
+              <h2 className="text-2xl font-semibold mb-4">
+                Subscription Details
+              </h2>
+              <div className="border border-gray-200 rounded-lg shadow-lg p-6 bg-white">
+                <div className="flex items-center mb-4">
+                  <div className="w-10 h-10 bg-blue-100 text-blue-500 flex items-center justify-center rounded-full mr-4">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      strokeWidth="2"
+                      stroke="currentColor"
+                      className="w-6 h-6"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M3 10h11M9 21V3m7 7 4-4m-4 4 4 4"
+                      />
+                    </svg>
+                  </div>
+                  <h3 className="text-xl font-bold text-gray-800">
+                    Plan: {plan?.name}
+                  </h3>
+                </div>
+                <p className="text-gray-600 text-lg">
+                  <strong>Price:</strong> ${plan?.price}
+                </p>
+                <p className="text-gray-600 text-lg">
+                  <strong>Duration:</strong> 1 Year
+                </p>
+                <div className="mt-4">
+                  {/* <button
+                    // onClick={handlePaymentConfirm}
+                    className="w-full flex justify-center bg-primary hover:bg-gray-700 text-secondary p-3 rounded-full tracking-wide font-semibold shadow-lg cursor-pointer transition ease-in duration-500"
+                    disabled={loading}
+                  >
+                    {loading ? <Spinner /> : "Go to Dashboard"}
+                  </button> */}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+      <Footer />
+    </div>
+  );
+};
+
+export default ConfirmPayment;

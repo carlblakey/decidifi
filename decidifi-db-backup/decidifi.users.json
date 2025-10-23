@@ -1,0 +1,4229 @@
+[{
+  "_id": {
+    "$oid": "67b91156289a7b648bb0bb51"
+  },
+  "name": "Calista Kennedy",
+  "email": "retal18542@kytstore.com",
+  "phoneNo": "+1628450128",
+  "password": "$2b$10$7omwAqWO3uB9Ol4yTR.2LewBQbGlzv20iuwtuZLK8NmM7oq3QVPEi",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1Qw5uvE9a5VG73DdjYXyCbFe",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-02-24T17:58:09.000Z"
+    },
+    "endDate": {
+      "$date": "2026-02-24T17:58:09.000Z"
+    },
+    "status": "active"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-02-21T23:50:46.439Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5cd906ce14659f680c68d"
+  },
+  "name": "Max Testing ",
+  "email": "fixadi3853@calmpros.com",
+  "phoneNo": "0123456789",
+  "password": "$2b$10$WrIhWr0322Hr7Hq2V9jZeeyr4ilRy8SPniZRy7bEfzOfyYYa4tg1G",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "SINGLE_SCORECARD",
+    "startDate": {
+      "$date": "2025-03-03T15:45:59.954Z"
+    },
+    "endDate": {
+      "$date": "2026-03-03T15:45:59.954Z"
+    },
+    "status": "active",
+    "currentStatus": "active"
+  },
+  "purchasedScorecards": [
+    {
+      "scorecardId": "675ae4528811b601343a9457",
+      "expiryDate": {
+        "$date": "2026-03-03T15:45:59.954Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "67c5ceba6ce14659f680c699"
+      }
+    }
+  ],
+  "subUsers": [
+    {
+      "name": "Max OPartner",
+      "email": "adalpha12@gmail.com",
+      "password": "$2b$10$Nq3LMoWT7emAuAwP6eODau6c4xW9JNT8DnYlrnrvWlXinuLPOzfLC",
+      "rawPassword": "123456",
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "67c5d0d16ce14659f680c88b"
+      },
+      "createdAt": {
+        "$date": "2025-03-03T15:54:57.445Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-03T15:54:57.445Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-03T15:41:04.848Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 2,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67cb285990b701008af35ffd"
+  },
+  "name": "Quinn Santiago",
+  "email": "jinopo6624@dwriters.com",
+  "password": "$2b$10$fPBh5EHjh/s8NX6nDXLMuurhKibF9EEXqa6QZSYXkdqdSB1he2njS",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-03-07T17:10:07.508Z"
+    },
+    "endDate": {
+      "$date": "2025-03-09T17:10:07.508Z"
+    },
+    "status": "expired"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [
+    {
+      "name": "Eric Navarro",
+      "email": "kety@mailinator.com",
+      "password": "$2b$10$LGevc9MI5E6BeA1eErZj2uHofPHsmhCApXSXQzXJ0Erb/uOwHUgMi",
+      "rawPassword": "Pa$$w0rd!",
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "67cb4dc74a3afb18d87831d0"
+      },
+      "createdAt": {
+        "$date": "2025-03-07T19:49:27.336Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-07T19:49:27.336Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-07T17:09:45.327Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 1,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "name": "Roth French",
+  "email": "aidenitextension@gmail.com",
+  "password": "$2b$10$V8WoDeCMWEUcN7dNt8p3uu47jiA/8n0VaK.GERDZwGS9NmPB1PkYm",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "SINGLE_SCORECARD",
+    "startDate": {
+      "$date": "2025-09-10T09:28:53.558Z"
+    },
+    "endDate": {
+      "$date": "2026-09-10T09:28:53.558Z"
+    },
+    "status": "active"
+  },
+  "purchasedScorecards": [
+    {
+      "scorecardId": "675ae4528811b601343a9457",
+      "expiryDate": {
+        "$date": "2026-04-21T23:20:06.005Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "6806d2a850de23d28da5e9a3"
+      }
+    },
+    {
+      "scorecardId": "675ae4538811b601343a945d",
+      "expiryDate": {
+        "$date": "2026-04-21T23:20:06.005Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "6806d2a850de23d28da5e9a4"
+      }
+    },
+    {
+      "scorecardId": "675ae4558811b601343a9463",
+      "expiryDate": {
+        "$date": "2026-04-21T23:20:06.005Z"
+      },
+      "currentStatus": "cancelled",
+      "_id": {
+        "$oid": "6806d2a850de23d28da5e9a5"
+      }
+    },
+    {
+      "scorecardId": "675ae4058811b601343a931e",
+      "expiryDate": {
+        "$date": "2026-07-31T13:04:44.748Z"
+      },
+      "currentStatus": "cancelled",
+      "_id": {
+        "$oid": "688b69ee29253936563646cd"
+      }
+    },
+    {
+      "scorecardId": "675ae4338811b601343a93dd",
+      "expiryDate": {
+        "$date": "2026-07-31T13:04:44.748Z"
+      },
+      "currentStatus": "cancelled",
+      "_id": {
+        "$oid": "688b69ee29253936563646ce"
+      }
+    },
+    {
+      "scorecardId": "675ae4308811b601343a93d1",
+      "expiryDate": {
+        "$date": "2026-07-31T13:04:44.748Z"
+      },
+      "currentStatus": "cancelled",
+      "_id": {
+        "$oid": "688b69ee29253936563646cf"
+      }
+    },
+    {
+      "scorecardId": "675ae43a8811b601343a93f9",
+      "expiryDate": {
+        "$date": "2026-07-31T13:04:44.748Z"
+      },
+      "currentStatus": "cancelled",
+      "_id": {
+        "$oid": "688b69ee29253936563646d0"
+      }
+    },
+    {
+      "scorecardId": "675ae4528811b601343a9457",
+      "expiryDate": {
+        "$date": "2026-09-08T18:00:42.703Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "68bf19cc7b571a835412cbcf"
+      }
+    },
+    {
+      "scorecardId": "675ae4528811b601343a9459",
+      "expiryDate": {
+        "$date": "2026-09-08T18:00:42.703Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "68bf19cc7b571a835412cbd0"
+      }
+    },
+    {
+      "scorecardId": "675ae4558811b601343a9465",
+      "expiryDate": {
+        "$date": "2026-09-10T09:28:53.558Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "68c144d789727c8ba0f51f60"
+      }
+    },
+    {
+      "scorecardId": "675ae4548811b601343a945f",
+      "expiryDate": {
+        "$date": "2026-09-10T09:28:53.558Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "68c144d789727c8ba0f51f61"
+      }
+    }
+  ],
+  "subUsers": [
+    {
+      "name": "Liberty Gould",
+      "email": "reratazyni@mailinator.com",
+      "password": "$2b$10$02yBXSxN0JX2sy6jqm2v..Uu5VFV3xNbcRWted5zBSkPid/9/514C",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "67f424b2a49096adc4f78ce9"
+      },
+      "createdAt": {
+        "$date": "2025-04-07T19:17:06.708Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-07T19:17:06.708Z"
+      }
+    },
+    {
+      "name": "Tarik Newman",
+      "email": "bafebej807@exclussi.com",
+      "password": "$2b$10$uczJmPraXokMzGnVEwTCWukxIXvcMZXCs5ZrV/98XRa1MLY/YAvB.",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": false,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "67f42568a49096adc4f78ed9"
+      },
+      "createdAt": {
+        "$date": "2025-04-07T19:20:08.211Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-07T19:29:25.071Z"
+      }
+    },
+    {
+      "name": "Steven Love",
+      "email": "vadukixecu@mailinator.com",
+      "password": "$2b$10$A4qhw0FVVCjDG1BqG06nqOMO8oIOKvVVl0Qm3Rq2f8Itrqd0Rck5i",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "67f569ca424857502c3ad9a4"
+      },
+      "createdAt": {
+        "$date": "2025-04-08T18:24:10.858Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-08T18:24:10.858Z"
+      }
+    },
+    {
+      "name": "Hamilton Hyde new",
+      "email": "test@gmail.com",
+      "password": "$2b$10$CEqtIVpNt8Uf7KuTxGf/H.TlXQqGsYuvPiGfXSeSAZvQwYdDVJlZ.",
+      "rawPassword": "323232323",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "67f56ba9424857502c3adda6"
+      },
+      "createdAt": {
+        "$date": "2025-04-08T18:32:09.155Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-08T18:32:09.155Z"
+      }
+    },
+    {
+      "name": "Hamilton Hyde new",
+      "email": "duceqosux@mailinator.com",
+      "password": "$2b$10$vdVcIOy.bZzuQhcrhDhENeG1rqqWH50uVFmw.5mPH2Gtkc26lzQGa",
+      "rawPassword": "32323232",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "67f56c0c424857502c3addbb"
+      },
+      "createdAt": {
+        "$date": "2025-04-08T18:33:48.655Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-08T18:33:48.655Z"
+      }
+    },
+    {
+      "name": "Hamilton Hyde new",
+      "email": "test2@gmail.com",
+      "password": "$2b$10$rDlVFQC/jCKTUHEPvoXqH.HEeElP8.1ufydywC90cOYyo2Gy2q5SO",
+      "rawPassword": "4234343434",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "67f56f93424857502c3ade0b"
+      },
+      "createdAt": {
+        "$date": "2025-04-08T18:48:51.955Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-08T18:48:51.955Z"
+      }
+    },
+    {
+      "name": "Hamilton Hyde new",
+      "email": "test4@gmail.com",
+      "password": "$2b$10$80qEJcidmFbZ8rwJBgQ85u0EazQvQrykMhi3aqbCZxd60fkLhPxQm",
+      "rawPassword": "321323",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "67f57572588b3e38f4786540"
+      },
+      "createdAt": {
+        "$date": "2025-04-08T19:13:54.386Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-08T19:13:54.386Z"
+      }
+    },
+    {
+      "name": "Timothy Frazier",
+      "email": "kapepy@mailinator.com",
+      "password": "$2b$10$xkBCq9wr5vQoFFGZ0xkka.yndwLkPexiZvj0FaFtt7r7JNzDbLAw6",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "688b6a482925393656364720"
+      },
+      "createdAt": {
+        "$date": "2025-07-31T13:06:16.558Z"
+      },
+      "updatedAt": {
+        "$date": "2025-07-31T13:06:16.558Z"
+      }
+    },
+    {
+      "name": "asfsa",
+      "email": "test@test.com",
+      "password": "$2b$10$a9f99rHxX4w5U1tO5QueCOoZnwKTSY3XZP.IgD6CKF59RQ6aIP0.O",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "68af3517cd96ccf65193ecd3"
+      },
+      "createdAt": {
+        "$date": "2025-08-27T16:40:55.644Z"
+      },
+      "updatedAt": {
+        "$date": "2025-08-27T16:40:55.644Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-10T20:03:17.543Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-10T09:28:55.028Z"
+  },
+  "__v": 76,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67d88ca6617bba988b4c54fd"
+  },
+  "name": "Yen Goff",
+  "email": "dinef70590@doishy.com",
+  "password": "$2b$10$vjtZ3zkgJQqv0/SkjlRzeeZYny0Nugg8Y3nQppFaYu368x.WTNa.u",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1R3lBLE9a5VG73DdWupNd2l7",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-03-17T21:26:47.000Z"
+    },
+    "endDate": {
+      "$date": "2026-03-17T21:26:47.000Z"
+    },
+    "status": "active",
+    "currentStatus": "cancelled"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [
+    {
+      "name": "Boris Campbell",
+      "email": "tofeyav816@bankrau.com",
+      "password": "$2b$10$/Vic7bK3H92/laSwTHu8MO2AWUiIzUj70adiLdzzsDX4XJg41G2sy",
+      "rawPassword": "Pa$$w0rd!",
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "67d88d46617bba988b4c56f4"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T20:59:50.644Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-17T20:59:50.644Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-17T20:57:10.328Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 1,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67d89428617bba988b4c6d33"
+  },
+  "name": "Chester Elliott",
+  "email": "dawiwi5115@erapk.com",
+  "password": "$2b$10$EA.Hr0K8utyQwwN47s322.TLfYae0mpC9yMhhmMo01CMThR8xk/HK",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "SINGLE_SCORECARD",
+    "startDate": {
+      "$date": "2025-03-17T21:31:31.533Z"
+    },
+    "endDate": {
+      "$date": "2026-03-17T21:31:31.533Z"
+    },
+    "status": "active",
+    "currentStatus": "active"
+  },
+  "purchasedScorecards": [
+    {
+      "scorecardId": "675ae4528811b601343a9457",
+      "expiryDate": {
+        "$date": "2026-03-17T21:30:09.497Z"
+      },
+      "currentStatus": "cancelled",
+      "_id": {
+        "$oid": "67d89463617bba988b4c6d3d"
+      }
+    },
+    {
+      "scorecardId": "675ae4538811b601343a945d",
+      "expiryDate": {
+        "$date": "2026-03-17T21:31:31.533Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "67d894b6617bba988b4c6f2e"
+      }
+    },
+    {
+      "scorecardId": "675ae4618811b601343a9495",
+      "expiryDate": {
+        "$date": "2026-03-17T21:31:31.533Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "67d894b6617bba988b4c6f2f"
+      }
+    }
+  ],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-03-17T21:29:12.724Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 3,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67d9a9dff23a26e5ae2d27d9"
+  },
+  "name": "Max",
+  "email": "misofet276@excederm.com",
+  "password": "$2b$10$B/TxejCIszVtwuzQGXLY6ekPoZrd87mn1cd2fKX433.Qp5Tb8shJO",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-03-18T17:14:07.847Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-03-18T17:14:07.849Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67d9ab60f23a26e5ae2d27e3"
+  },
+  "name": "Max",
+  "email": "xolen81203@isorax.com",
+  "password": "$2b$10$r.VNXthokjsNM3o16Mn/O.Nnjqols1dLBRdp7lREz2ROvnke5dCXi",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1R43thE9a5VG73DdqvweA5Jg",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-03-18T17:25:49.000Z"
+    },
+    "endDate": {
+      "$date": "2026-03-18T17:25:49.000Z"
+    },
+    "status": "active"
+  },
+  "purchasedScorecards": [
+    {
+      "scorecardId": "675ae4558811b601343a9463",
+      "expiryDate": {
+        "$date": "2026-03-18T17:23:22.794Z"
+      },
+      "currentStatus": "cancelled",
+      "_id": {
+        "$oid": "67d9ac0df23a26e5ae2d28e4"
+      }
+    }
+  ],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-03-18T17:20:32.866Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 2,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67d9b03bf23a26e5ae2d2ebd"
+  },
+  "name": "Max",
+  "email": "jacecaf389@barodis.com",
+  "password": "$2b$10$gkray9NvU0HDISvX0X6kRu1QvNN/RuXpPBLZ7FZ6yAsOwoxsg/BxS",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-03-18T17:41:15.266Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-03-18T17:41:15.267Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67d9b0e0f23a26e5ae2d2ec2"
+  },
+  "name": "Max",
+  "email": "qtecstudiosinc@gmail.com",
+  "password": "$2b$10$4CsRYAOGeKyxRN4ATAJFCu96s0H4O2TqG9DnvnDVM2QEUuv/Wzu7K",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-03-18T17:47:02.145Z"
+    },
+    "endDate": {
+      "$date": "2025-03-20T17:47:02.145Z"
+    },
+    "status": "expired"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [
+    {
+      "name": "Max Two",
+      "email": "jacecaf389@barodis.com",
+      "password": "$2b$10$b0wIlhOic01lyzHNRlqsFOFUIHDFmC/cPBEGfmHVFk9iwYqFm6MR.",
+      "rawPassword": "12345678",
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "67d9b522f23a26e5ae2d31b2"
+      },
+      "createdAt": {
+        "$date": "2025-03-18T18:02:10.810Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-18T18:02:10.810Z"
+      }
+    },
+    {
+      "name": "Ian",
+      "email": "ian@decidifi.com",
+      "password": "$2b$10$FaIPpTtnU16sIJ.bqO1C0eI.6XUBopmkaI6GXZGd.5jAIJ.naYZ96",
+      "rawPassword": "12345678",
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "67d9b78af23a26e5ae2d37a0"
+      },
+      "createdAt": {
+        "$date": "2025-03-18T18:12:26.021Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-18T18:12:26.021Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-18T17:44:00.573Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 2,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67dd9353fe72520a04a0b3a7"
+  },
+  "name": "John",
+  "email": "fisegi1198@evluence.com",
+  "password": "$2b$10$98g8SF14cuFqX7gKC7W3AO6ZQE8mTU8LXlT9YxHYrwuGWCRDtntZK",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-03-21T16:28:06.512Z"
+    },
+    "endDate": {
+      "$date": "2025-03-23T16:28:06.512Z"
+    },
+    "status": "expired"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [
+    {
+      "name": "John",
+      "email": "adalpha12@gmail.com",
+      "password": "$2b$10$q5rBHhD.LgVNaetM9fJxBehDbjRsuighNaSJGMBDdk0G28LZuSMMq",
+      "rawPassword": "123456789",
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "67dd9476fe72520a04a0b694"
+      },
+      "createdAt": {
+        "$date": "2025-03-21T16:31:50.387Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-21T16:31:50.387Z"
+      }
+    },
+    {
+      "name": "Tom",
+      "email": "xyz455460@gmail.com",
+      "password": "$2b$10$d3WYsKweh5v8xncdIsQWge4DNOj7XtOaO4jN5..Bl6EWprbSijp/a",
+      "rawPassword": "12345678",
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "67dd96d2fe72520a04a0c41b"
+      },
+      "createdAt": {
+        "$date": "2025-03-21T16:41:54.591Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-21T16:41:54.591Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-21T16:26:59.170Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 2,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f55ddd424857502c3ace91"
+  },
+  "name": "John",
+  "email": "vesegi4486@bariswc.com",
+  "password": "$2b$10$HWCnnups38cZp5M4TDwo5usaMqceXPh0NzSzuI6kM2AXUaeQJXxd6",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-04-08T17:33:39.344Z"
+    },
+    "endDate": {
+      "$date": "2025-04-10T17:33:39.344Z"
+    },
+    "status": "expired"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [
+    {
+      "name": "Talha",
+      "email": "xyz455460@gmail.com",
+      "password": "$2b$10$fIeSQLGMqRxEMQ4o/miEl.I5XyH/af32rPzfeOblgyzJiYmQLPGnm",
+      "rawPassword": "12345678",
+      "emailSubscribed": false,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "67f55e65424857502c3acf90"
+      },
+      "createdAt": {
+        "$date": "2025-04-08T17:35:33.456Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-14T21:06:52.623Z"
+      }
+    },
+    {
+      "name": "Two",
+      "email": "webdevtalha@gmail.com",
+      "password": "$2b$10$dLlFHqqPmfxVV9lCcl5A7uf/4cHZIU/di.Kbeho5q/PAyrB5P/3nu",
+      "rawPassword": "12345678",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "67f56329424857502c3ad680"
+      },
+      "createdAt": {
+        "$date": "2025-04-08T17:55:53.856Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-08T17:55:53.856Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-04-08T17:33:17.400Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 2,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f80868822a2dbb3d32c56d"
+  },
+  "name": "John",
+  "email": "bejam45120@anlocc.com",
+  "password": "$2b$10$Z.FhpHduinoMSpOQCzJdzOjwrM3Pmld6QBNc2F.zYsgX88kniULRe",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-04-10T18:05:55.641Z"
+    },
+    "endDate": {
+      "$date": "2025-04-12T18:05:55.641Z"
+    },
+    "status": "expired"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-04-10T18:05:28.910Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67fd77b897e2d1cad9b89294"
+  },
+  "name": "John",
+  "email": "sarok80545@anlocc.com",
+  "password": "$2b$10$WiHj..bXEaCOGeo7/mrBmutap1XbqN5BMrYMo.8BIJtbk.i2oJ0qS",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-04-14T21:02:09.269Z"
+    },
+    "endDate": {
+      "$date": "2025-04-16T21:02:09.269Z"
+    },
+    "status": "expired"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [
+    {
+      "name": "John Dee",
+      "email": "xyz455460@gmail.com",
+      "password": "$2b$10$RqFGgfPyTaxW27s0Y1Idn.zLsahL30RIjMgRh9nCHsl8YSO1xTVY2",
+      "rawPassword": "123456778",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "67fd780497e2d1cad9b89393"
+      },
+      "createdAt": {
+        "$date": "2025-04-14T21:03:00.381Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-14T21:03:00.381Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-04-14T21:01:44.536Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 1,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67ffc9760c0768e3725d9ba9"
+  },
+  "name": "Max",
+  "email": "tiraxep295@ptiong.com",
+  "password": "$2b$10$AeUdmI.MJepFzDqN142vZOFi1kp6798rzURRkBfzOMACjJwthlgsa",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-04-16T15:18:27.860Z"
+    },
+    "endDate": {
+      "$date": "2025-04-18T15:18:27.860Z"
+    },
+    "status": "expired"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-04-16T15:15:02.960Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6801419b4ee570227dcecc1b"
+  },
+  "name": "John",
+  "email": "wiyex98323@lushosa.com",
+  "password": "$2b$10$0sVHAejh/kdkv56l1UUIn.nS/sIVtuHAuVjlGCufxCziTnQHbDznO",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-04-17T18:01:32.676Z"
+    },
+    "endDate": {
+      "$date": "2025-04-19T18:01:32.676Z"
+    },
+    "status": "expired"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-04-17T17:59:55.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6806b1159161f63c4b7fe349"
+  },
+  "name": "Beatrice Nguyen",
+  "email": "werex@mailinator.com",
+  "password": "$2b$10$L0boWKZDgPQiAefj1XE8geA9nh/5/GczszeSSv8e88On1y0hYe2G2",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-04-21T20:56:53.119Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-04-21T20:56:53.121Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6806b17c9161f63c4b7fe34e"
+  },
+  "name": "Beatrice Nguyen",
+  "email": "codab53661@lushosa.com",
+  "password": "$2b$10$9JcR5BE.pa6nlJ4azq2Eo.6R4N.OWypyXEg1ub6kDGoSWO9dKU672",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-04-21T20:58:36.243Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-04-21T20:58:36.243Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6806c13450de23d28da5c89a"
+  },
+  "name": "Moses Rhodes",
+  "email": "wanin55502@lushosa.com",
+  "password": "$2b$10$1uVlyq2VH0aByMnZURmn4eyLBuXRLSMRO/0ieYuHE63ybOgrT81d6",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-04-21T22:05:40.042Z"
+    },
+    "status": "expired"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [
+    {
+      "name": "Lydia Abbott",
+      "email": "moxesadyg@mailinator.com",
+      "password": "$2b$10$6Rk2q.koYgMG/VboVzpb0OHJN5JDnLnjtRHHkOsXgScnW/yqC5R32",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "6806c35850de23d28da5cc83"
+      },
+      "createdAt": {
+        "$date": "2025-04-21T22:14:48.027Z"
+      },
+      "updatedAt": {
+        "$date": "2025-04-21T22:14:48.027Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-04-21T22:05:40.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 3,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6806d2f150de23d28da5e9ae"
+  },
+  "name": "Bradley Osborn",
+  "email": "gisocid481@lushosa.com",
+  "password": "$2b$10$VGfSyPM3TvbLBFUYHUm0XekalTVCeXQbUec1jMxuFzf.WfGqdu9PS",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-04-21T23:21:49.588Z"
+    },
+    "endDate": {
+      "$date": "2025-04-23T23:21:49.588Z"
+    },
+    "status": "expired"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-04-21T23:21:21.069Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6806d34050de23d28da5eaae"
+  },
+  "name": "Solomon Clayton",
+  "email": "diwes63775@lushosa.com",
+  "password": "$2b$10$766gqrlIKL6qKOk8o3wnPug9RMT8eVzjHahBYrS4eNQJFPuGPnXf.",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1RGThKE9a5VG73DdQZmLoyrb",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-04-21T23:24:22.000Z"
+    },
+    "endDate": {
+      "$date": "2026-04-21T23:24:22.000Z"
+    },
+    "status": "active"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-04-21T23:22:40.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6819483b6582ec646f9f4211"
+  },
+  "name": "Desiree Jennings",
+  "email": "coyora3491@javbing.com",
+  "password": "$2b$10$puPWPa.O78JJN9GPWIS97uGSGqnYBu1720LT2V/VPENQ1ENOJPv7.",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-05-05T23:22:35.926Z"
+    },
+    "status": "expired"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [
+    {
+      "name": "Seth Gay b",
+      "email": "wifagasa@mailinator.com",
+      "password": "$2b$10$mgCNJhAv9q9afKyWymQ19uNQLnGv5CARk4kv2QZp3DLVorGxB44zW",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "68194d346582ec646f9f441c"
+      },
+      "createdAt": {
+        "$date": "2025-05-05T23:43:48.058Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-05T23:43:52.377Z"
+      }
+    },
+    {
+      "name": "Mollie Perry",
+      "email": "dycufite@mailinator.com",
+      "password": "$2b$10$md0Erhd2BIC.HcrOITO9Wu9BOSCMGaUjyqaXfUvklZRq3VaOcaRzW",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "6819529e0bb43ea271079ad7"
+      },
+      "createdAt": {
+        "$date": "2025-05-06T00:06:54.759Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-06T00:06:54.759Z"
+      }
+    },
+    {
+      "name": "Cally Fitzpatrick",
+      "email": "kujez@mailinator.com",
+      "password": "$2b$10$Bsm9s0lHyGeqi4T.qw8fPOKhHWaL.3f35Cw1.x2xK2BJTkFRtqKhq",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "681952f10bb43ea271079af1"
+      },
+      "createdAt": {
+        "$date": "2025-05-06T00:08:17.660Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-06T00:08:17.660Z"
+      }
+    },
+    {
+      "name": "Gemma Mercado",
+      "email": "renidemyxi@mailinator.com",
+      "password": "$2b$10$2L0yZL1A0XHfmzjFclWMwOPkIDCi40p6dT8PzwxyKa.vXTv23xRey",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "681952fa0bb43ea271079afb"
+      },
+      "createdAt": {
+        "$date": "2025-05-06T00:08:26.567Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-06T00:08:26.567Z"
+      }
+    },
+    {
+      "name": "Wyatt Calhoun",
+      "email": "qylujaty@mailinator.com",
+      "password": "$2b$10$mDS28XDIj9chXfUlLIms1.sdPKkE3A8M3b3IN0cnIYZfneORBKPNu",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "6819531b0bb43ea271079b0c"
+      },
+      "createdAt": {
+        "$date": "2025-05-06T00:08:59.567Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-06T00:08:59.567Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-05-05T23:22:35.927Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 9,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "682370a546e30b33baf6932e"
+  },
+  "name": "Walter Berg",
+  "email": "bemoso3639@neuraxo.com",
+  "password": "$2b$10$.Gd6jlM04UkGAAWX3JQqDukfEqF7pngyTEF5PviazbgOVJhpeebAG",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-05-13T16:17:41.980Z"
+    },
+    "status": "expired"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [
+    {
+      "name": "Abel Hebert",
+      "email": "jexys@mailinator.com",
+      "password": "$2b$10$KIQvEBE5le.knhQLQoiX4eQ08fHZFZfe7s7UIfBA.a3Kz0XU3NVjG",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "6823735c46e30b33baf69aeb"
+      },
+      "createdAt": {
+        "$date": "2025-05-13T16:29:16.483Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-13T16:29:16.483Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-05-13T16:17:41.984Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 3,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68237fcd1eb51722b963e455"
+  },
+  "name": "Coby Sweet",
+  "email": "vejaf40152@neuraxo.com",
+  "password": "$2b$10$dabqeuo.UOOBBAbAu/PCUOgzRQuk8k2uX4nZNTJIzDdPTFMkAu5DG",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-05-13T17:22:21.539Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-05-13T17:22:21.540Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68238af9e72703c9f3884807"
+  },
+  "name": "Jenette Haynes",
+  "email": "lalihe2469@neuraxo.com",
+  "password": "$2b$10$r13DISXRle7sxqsGNhzjnO5HVtROUGZS0zlgNRL4GPwyceg4JCHWm",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-05-13T18:10:01.455Z"
+    },
+    "status": "expired"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-05-13T18:10:01.456Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68238dd8e72703c9f38849fa"
+  },
+  "name": "Lacy Compton",
+  "email": "pevide6951@magpit.com",
+  "password": "$2b$10$k7UyIW7RkUiLPbJ3d134YOUuGLeFJu2e/BbiGtEi.CWsriHHUdazK",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "SINGLE_SCORECARD",
+    "startDate": {
+      "$date": "2025-05-13T18:25:27.609Z"
+    },
+    "endDate": {
+      "$date": "2026-05-13T18:25:27.609Z"
+    },
+    "status": "active",
+    "currentStatus": "active"
+  },
+  "purchasedScorecards": [
+    {
+      "scorecardId": "675ae4528811b601343a9457",
+      "expiryDate": {
+        "$date": "2026-05-13T18:25:27.609Z"
+      },
+      "currentStatus": "cancelled",
+      "_id": {
+        "$oid": "68238e99e72703c9f3884b00"
+      }
+    },
+    {
+      "scorecardId": "675ae4538811b601343a945d",
+      "expiryDate": {
+        "$date": "2026-05-13T18:25:27.609Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "68238e99e72703c9f3884b01"
+      }
+    }
+  ],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-05-13T18:22:16.713Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 2,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6826768ab2f3c5ab77a84de1"
+  },
+  "name": "Arthur Olson",
+  "email": "laromek615@magpit.com",
+  "password": "$2b$10$Mn0j3LST2/vnbSIVUL8d2e3umWy7m7lqxf6V/s8m9CwCnPA881c5m",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1RPBAsE9a5VG73DdZUaFH45J",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-05-15T23:26:50.000Z"
+    },
+    "endDate": {
+      "$date": "2026-05-15T23:26:50.000Z"
+    },
+    "status": "active",
+    "currentStatus": "cancelled"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [
+    {
+      "name": "Deborah Pitts",
+      "email": "vanofe6888@neuraxo.com",
+      "password": "$2b$10$J7qlcEMmYn4.DKAvya1/1uXm64LrhK6kpngAXCDhOoJYSP/KaGTFq",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "682680ce70c821ea203bfb90"
+      },
+      "createdAt": {
+        "$date": "2025-05-16T00:03:26.105Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-16T00:03:26.105Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-05-15T23:19:38.148Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 1,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "682683b470c821ea203bfbad"
+  },
+  "name": "Jolie Owens",
+  "email": "bifef74812@neuraxo.com",
+  "password": "$2b$10$IrU1GbUnkNfYQdDhi7vES.DOxda4H4.XfExt/jgsBRMO6A8xTl9V.",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "SINGLE_SCORECARD",
+    "startDate": {
+      "$date": "2025-05-16T00:16:43.602Z"
+    },
+    "endDate": {
+      "$date": "2026-05-16T00:16:43.602Z"
+    },
+    "status": "active"
+  },
+  "purchasedScorecards": [
+    {
+      "scorecardId": "675ae4528811b601343a9457",
+      "expiryDate": {
+        "$date": "2026-05-16T00:16:43.602Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "682683ed70c821ea203bfbb7"
+      }
+    }
+  ],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-05-16T00:15:48.971Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 1,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "683f7aed7b0336aaa965681f"
+  },
+  "name": "Eleanor Fernandez",
+  "email": "rajic11001@jeanssi.com",
+  "password": "$2b$10$Or/.RUrqhDZf..shL5WJmeybEw5lDDUO5iWvoqsktDkP6d6kq2S5a",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-03T22:45:35.353Z"
+    },
+    "endDate": {
+      "$date": "2025-06-05T22:45:35.353Z"
+    },
+    "status": "expired"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-03T22:45:01.521Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "683f7fcf7d8f5048ab4663a7"
+  },
+  "name": "Pascale Jacobson",
+  "email": "lariho1229@endelite.com",
+  "password": "$2b$10$nPxy4KEq7n8hieGbO/d7qOODXZgxBnh4Fnvv2QkDc2/FtpGxCKxNW",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "SINGLE_SCORECARD",
+    "startDate": {
+      "$date": "2025-06-03T23:44:40.490Z"
+    },
+    "endDate": {
+      "$date": "2026-06-03T23:44:40.490Z"
+    },
+    "status": "active",
+    "currentStatus": "active"
+  },
+  "purchasedScorecards": [
+    {
+      "scorecardId": "675ae4528811b601343a9457",
+      "expiryDate": {
+        "$date": "2026-06-03T23:44:40.490Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "683f88ea66f36f786e0c4cc2"
+      }
+    },
+    {
+      "scorecardId": "675ae4538811b601343a945d",
+      "expiryDate": {
+        "$date": "2026-06-03T23:44:40.490Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "683f88ea66f36f786e0c4cc3"
+      }
+    },
+    {
+      "scorecardId": "675ae4558811b601343a9463",
+      "expiryDate": {
+        "$date": "2026-06-03T23:44:40.490Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "683f88ea66f36f786e0c4cc4"
+      }
+    },
+    {
+      "scorecardId": "675ae4618811b601343a9495",
+      "expiryDate": {
+        "$date": "2026-06-03T23:44:40.490Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "683f88ea66f36f786e0c4cc5"
+      }
+    },
+    {
+      "scorecardId": "675ae4638811b601343a949b",
+      "expiryDate": {
+        "$date": "2026-06-03T23:44:40.490Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "683f88ea66f36f786e0c4cc6"
+      }
+    },
+    {
+      "scorecardId": "675ae4648811b601343a94a1",
+      "expiryDate": {
+        "$date": "2026-06-03T23:44:40.490Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "683f88ea66f36f786e0c4cc7"
+      }
+    }
+  ],
+  "subUsers": [
+    {
+      "name": "Alea Reese",
+      "email": "lobeqyfax@mailinator.com",
+      "password": "$2b$10$3Oy/DqkEfdQZPtJ.hFu9TuJTdyOFEDXqlAvsHeLNHZWJ6v.6QwyLS",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "683f9243d66b6941465e4a1e"
+      },
+      "createdAt": {
+        "$date": "2025-06-04T00:24:35.949Z"
+      },
+      "updatedAt": {
+        "$date": "2025-06-04T00:24:35.949Z"
+      }
+    },
+    {
+      "name": "Thane Hutchinson",
+      "email": "cogica5903@claspira.com",
+      "password": "$2b$10$pyYeR2CC95XIjC0HrhJeX.QxO95gWoPlcXljEEnY2Oo2dtE2WSR86",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "683f927dd66b6941465e4a46"
+      },
+      "createdAt": {
+        "$date": "2025-06-04T00:25:33.238Z"
+      },
+      "updatedAt": {
+        "$date": "2025-06-04T00:25:33.238Z"
+      }
+    },
+    {
+      "name": "Gillian Sanders",
+      "email": "wuqopikif@mailinator.com",
+      "password": "$2b$10$iDe/XRHjJnxi6V/x.6PcSuhv/BMFMxOK4nO6YW3kIJAMTkn8z7NP2",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "683f943793da0d54ffabd2cb"
+      },
+      "createdAt": {
+        "$date": "2025-06-04T00:32:55.569Z"
+      },
+      "updatedAt": {
+        "$date": "2025-06-04T00:32:55.569Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-06-03T23:05:51.783Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 6,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "683f8c0e66f36f786e0c4cd0"
+  },
+  "name": "John Doe",
+  "email": "newuser@example.com",
+  "password": "$2b$10$2Te7jfYkci1CZWMIHHGs3.sNaMKxkDThz/uA2U7mNcQXMpiFMQ0nu",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-03T23:58:06.159Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-03T23:58:06.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "683f9b92dc90c680739c6a22"
+  },
+  "name": "John Doe",
+  "email": "vodof84779@baxima.com",
+  "password": "$2b$10$Cudgu0ajF5BF1GSd38zIx.tKtdrhKLjEbLLzNhI8uoFO9nAMl7QDG",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-04T01:04:18.659Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-04T01:04:18.662Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "683f9f3fd2b5204e9452144e"
+  },
+  "name": "Chaney Ballard",
+  "email": "virobon511@endelite.com",
+  "password": "$2b$10$uupFE2cy2fkcTiaRLWVATevaTMaWd43iOfhBDfiWd0JKPYMnAAfxK",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-04T01:19:59.280Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-04T01:19:59.282Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6840683cceb6ca11e29d2887"
+  },
+  "name": "Rachel Potts",
+  "email": "hamade1727@jeanssi.com",
+  "password": "$2b$10$Zix5iNIbDpZdwn9f9KH3QeD6jxBVYCswTvtUPinTw8F6aDH5gsQde",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1RWJOfE9a5VG73DdZfu5Grw1",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-06-04T15:38:33.000Z"
+    },
+    "endDate": {
+      "$date": "2026-06-04T15:38:33.000Z"
+    },
+    "status": "active"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-04T15:37:32.254Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68406a09cb052208e9e74f65"
+  },
+  "name": "Lila Albert",
+  "email": "xatoweb847@jeanssi.com",
+  "password": "$2b$10$8/xbOFOMYIJYJC4pKVafze8TFxLWB8GBEjrTSeSQilu/OSE2iyWvW",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-04T15:45:13.635Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-04T15:45:13.637Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6840729fdabfac631b6acb09"
+  },
+  "name": "Raven Hansen",
+  "email": "repef65407@jeanssi.com",
+  "password": "$2b$10$OhHX2jBZOUP8BEZwJNpDkupg7jNzyR1cuhtrRdgs91877UAB6Kfg6",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-04T16:22:48.851Z"
+    },
+    "endDate": {
+      "$date": "2025-06-06T16:22:48.851Z"
+    },
+    "status": "expired"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-04T16:21:51.435Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68407365dabfac631b6acc0a"
+  },
+  "name": "Teegan Rivera",
+  "email": "cepatif370@endelite.com",
+  "password": "$2b$10$69ib.NQPuj6GsCUhsseppurrKSFzAbwY7wFT1.zvrGGDZ0tKBc.nW",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-04T16:25:09.075Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-04T16:25:09.075Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "684074cce4937f987e5734ef"
+  },
+  "name": "Frederssicka Owenss",
+  "email": "nikive4178@baxima.com",
+  "password": "$2b$10$p4koXHV/KZ1wa9Cft3b7aeRE8lQfAd.0LLBfe8q/nJm3AtlO6Nh16",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-04T16:31:08.670Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-04T16:31:08.671Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "684075b1d1088ad686942ed1"
+  },
+  "name": "Joshuah Santosh",
+  "email": "cobibo4292@eduhed.com",
+  "password": "$2b$10$ZgKglCgFYsWbpTkXYKAhduOrogIubMG3yHehirP0zRoIUxOgphA66",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-04T16:35:28.957Z"
+    },
+    "endDate": {
+      "$date": "2025-06-06T16:35:28.957Z"
+    },
+    "status": "expired"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-04T16:34:57.041Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "684089bbbde84989ff23ce22"
+  },
+  "name": "Odessa Raymond",
+  "email": "piwavif172@endelite.com",
+  "password": "$2b$10$SgEn0fH8PYpvGUD7Jzofy.uoAlXWhARJNXTjnXBQ/WW9vf7/uvyj2",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-04T18:00:27.516Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-04T18:00:27.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68408cb6bde84989ff23d991"
+  },
+  "name": "Imogene Stanton",
+  "email": "xifeheg943@acedby.com",
+  "password": "$2b$10$eIOAMO0bRJvFpeDDJNgNuOVo3qw87VG8FZuqwoWGn0DcIiD/MV9Iq",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-04T18:13:10.888Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-04T18:13:10.889Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6840a7ee997c0a247a1e4b2e"
+  },
+  "name": "Yuri Lambert",
+  "email": "papic73445@endelite.com",
+  "password": "$2b$10$K2A34yTIfb0oiekc1RwrcOWjorE96D4J83AcEWmjtHux70pnEaBW.",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "SINGLE_SCORECARD",
+    "startDate": {
+      "$date": "2025-06-04T20:32:49.483Z"
+    },
+    "endDate": {
+      "$date": "2026-06-04T20:32:49.483Z"
+    },
+    "status": "active",
+    "currentStatus": "active"
+  },
+  "purchasedScorecards": [
+    {
+      "scorecardId": "675ae4528811b601343a9457",
+      "expiryDate": {
+        "$date": "2026-06-04T20:32:49.483Z"
+      },
+      "currentStatus": "cancelled",
+      "_id": {
+        "$oid": "6840ad73997c0a247a1e5aa2"
+      }
+    },
+    {
+      "scorecardId": "675ae4538811b601343a945d",
+      "expiryDate": {
+        "$date": "2026-06-04T20:32:49.483Z"
+      },
+      "currentStatus": "cancelled",
+      "_id": {
+        "$oid": "6840ad73997c0a247a1e5aa3"
+      }
+    },
+    {
+      "scorecardId": "675ae4558811b601343a9463",
+      "expiryDate": {
+        "$date": "2026-06-04T20:32:49.483Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "6840ad73997c0a247a1e5aa4"
+      }
+    },
+    {
+      "scorecardId": "675ae4618811b601343a9495",
+      "expiryDate": {
+        "$date": "2026-06-04T20:32:49.483Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "6840ad73997c0a247a1e5aa5"
+      }
+    },
+    {
+      "scorecardId": "675ae4638811b601343a949b",
+      "expiryDate": {
+        "$date": "2026-06-04T20:32:49.483Z"
+      },
+      "currentStatus": "cancelled",
+      "_id": {
+        "$oid": "6840ad73997c0a247a1e5aa6"
+      }
+    }
+  ],
+  "subUsers": [
+    {
+      "name": "Ava Clemons",
+      "email": "xawacev952@eduhed.com",
+      "password": "$2b$10$s80BZK1.nSD7jRUAYeMM.OcEVc/dGRj4GfSoIn.2OEjClbc9D0w6m",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "6840a9a8997c0a247a1e4e41"
+      },
+      "createdAt": {
+        "$date": "2025-06-04T20:16:40.338Z"
+      },
+      "updatedAt": {
+        "$date": "2025-06-04T20:16:40.338Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-06-04T20:09:18.878Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 3,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68505d0a4252840b8db43358"
+  },
+  "name": "Ashton Little",
+  "email": "gexoya1981@ihnpo.com",
+  "password": "$2b$10$UWuHpcb8983LTFSN4JWrJe4DpzP9jSVmPX9EM9OdhPn60Ct0rvTKG",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-16T18:06:02.619Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-16T18:06:02.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68505e094252840b8db43361"
+  },
+  "name": "Amy England",
+  "email": "tonakec162@nab4.com",
+  "password": "$2b$10$wquUCtttAuuFzFXxzh2Oj.U/QrpSJz7w68tKeZWkZKj1.h3200b0C",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-16T18:10:17.269Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-16T18:10:17.270Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "685090f04af73899fd6c9a61"
+  },
+  "name": "Hop Mathis",
+  "email": "kalitac150@ihnpo.com",
+  "password": "$2b$10$jEUnl0.isgi29npcZIauVeJ3YuLtvjDMZFtqrKnusKSIe4vbqutQC",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-16T21:47:28.578Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-16T21:47:28.580Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68509540e1eaa7fea1f8171d"
+  },
+  "name": "Alenquer",
+  "email": "WECEWAA1937@CRISTOUT.COM",
+  "password": "$2b$10$LeEoJPrC4iQ2lpKmzMdxXuzh1be3WA2NdkkXIkUV0F6RE7NS8L/be",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-16T22:05:52.896Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-16T22:05:52.898Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "685095dce1eaa7fea1f81722"
+  },
+  "name": "Matthew Mayers",
+  "email": "pacada1128@calorpg.com",
+  "password": "$2b$10$bkS5MtgtEhxevGqcu0J/qOglENWt1r9KBY/gIIgM4Z9YbCiZbmrl6",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-16T22:08:28.962Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-16T22:08:28.963Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "685099bce4ea006fdfff9cc7"
+  },
+  "name": "Alenquera",
+  "email": "dacafig803@calorpg.com",
+  "password": "$2b$10$9EdSoEkFi/dh5M6CGHRyGOiqGYvUNsDED7haPZNqwwuZu0MvC8oWC",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-16T22:25:00.798Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-16T22:25:00.800Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68509a78e4ea006fdfff9ccd"
+  },
+  "name": "Matthew Mayer",
+  "email": "tumlitofyi@gufum.com",
+  "password": "$2b$10$1JGP7i3t.cQ/WXzosaubSuePCBCvEEG2FFFzWm/ieLbW8J5XqNbF6",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-16T22:28:08.361Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-16T22:28:08.362Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6850a090ee094310dac4454f"
+  },
+  "name": "Hop Mathisa",
+  "email": "hestalerzu@gufum.com",
+  "password": "$2b$10$mlth5xZHZJzibdSzYTy93un/1HiooOA1ujEFBPsnHnpFRGhlWhF/u",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-16T22:54:08.593Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-16T22:54:08.594Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6850a110ee094310dac44557"
+  },
+  "name": "aaaaaa",
+  "email": "judrucilta@gufum.com",
+  "password": "$2b$10$84Q.eJ74fu6DzRXbQ6GXcuKdRmyOuEu9onAwSrs.AjPzZVRVfl8Wm",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-16T22:56:16.566Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-16T22:56:16.567Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851b2fd0976f1c0e6610895"
+  },
+  "name": "Rhea Frazier",
+  "email": "silove6663@nab4.com",
+  "password": "$2b$10$E5Ba2Bzo5TtWqdBnwNK24./oDdxgMrE6kkVzPRoFeksVxC6slCFhy",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-17T18:25:01.235Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-17T18:25:01.237Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851b8acb1c3e19685e6670d"
+  },
+  "name": "Len Beach",
+  "email": "tegokob464@nab4.com",
+  "password": "$2b$10$iOUMD3wl3FTqBqJ2ISRi6u2.N.IhjYG0QKs6uaJU2f.3cQIRF0C8u",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "SINGLE_SCORECARD",
+    "startDate": {
+      "$date": "2025-06-17T18:51:43.857Z"
+    },
+    "endDate": {
+      "$date": "2026-06-17T18:51:43.857Z"
+    },
+    "status": "active"
+  },
+  "purchasedScorecards": [
+    {
+      "scorecardId": "675ae4528811b601343a9457",
+      "expiryDate": {
+        "$date": "2026-06-17T18:51:43.857Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "6851b941b1c3e19685e66811"
+      }
+    },
+    {
+      "scorecardId": "675ae4538811b601343a945d",
+      "expiryDate": {
+        "$date": "2026-06-17T18:51:43.857Z"
+      },
+      "currentStatus": "active",
+      "_id": {
+        "$oid": "6851b941b1c3e19685e66812"
+      }
+    }
+  ],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-17T18:49:16.611Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 1,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851ba78d8726e70bad5e0d2"
+  },
+  "name": "Sean Tate",
+  "email": "cifena4344@nab4.com",
+  "password": "$2b$10$u98HEIDcuu4lTvBTonZsiu5mMG8L0R8Bo8nU54kR1oXLY/Dd/dLi6",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-17T18:56:56.235Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-17T18:56:56.236Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851bbf5d8726e70bad5e0e3"
+  },
+  "name": "Claire Bernard",
+  "email": "faxov90455@nab4.com",
+  "password": "$2b$10$PUFrANb/Kwrlim.HpQXRu.sE.zBJzG192ew448y0uWNGVNMthyjhK",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-17T19:03:17.147Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-17T19:03:17.148Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851be82465901c263f65483"
+  },
+  "name": "Cathleen Benton",
+  "email": "vawep38150@ihnpo.com",
+  "password": "$2b$10$G.Cy9PiO8QqZKnF4np2zZOuYJC4rXDcPtWz/OZvB4InyE86bwjNuC",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1Rb4y8E9a5VG73DdsbSy4hCf",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-06-17T19:14:52.000Z"
+    },
+    "endDate": {
+      "$date": "2026-06-17T19:14:52.000Z"
+    },
+    "status": "active"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-17T19:14:10.538Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851bf8c465901c263f6548f"
+  },
+  "name": "Mollie Farmer",
+  "email": "geror49612@ihnpo.com",
+  "password": "$2b$10$uOydgQ/awoGb0S/thNUoY.f2tBXU.UmVaIJythxkqNGpyH4OYIdhW",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-17T19:18:36.733Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-17T19:18:36.733Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851c1a01286662c98143f65"
+  },
+  "name": "Elliott Carver",
+  "email": "gadewo5846@ihnpo.com",
+  "password": "$2b$10$pCLYEdge6mFe1sGZt41j5e/RbAWncWnDJkZ8hsv4lb64slXX1qgqW",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-17T19:27:28.977Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-17T19:27:28.978Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851c20189846890d6a716be"
+  },
+  "name": "Hedwig Lancaster",
+  "email": "yixapic401@nab4.com",
+  "password": "$2b$10$FBVzt4Mbjn9tCCAYmGVAL.mEV66H3pvr5GA1bRScnAXqzGoAP6WIi",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-17T19:29:05.619Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-17T19:29:05.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851c2e989846890d6a716cb"
+  },
+  "name": "Edward Floyd",
+  "email": "dagagi9612@nab4.com",
+  "password": "$2b$10$bwp2ZKxm0SmNsY8Zkm9Lg.zqB.BAsH6gFNK/6CzXaz0g9Hd9xOshq",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-17T19:32:57.884Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-17T19:32:57.885Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851c35089846890d6a716d4"
+  },
+  "name": "Anastasia Levine",
+  "email": "sifab41041@nab4.com",
+  "password": "$2b$10$yuac0kcaIY1Su/42.5BQWu1QE0YPM8gBIvhEVen4tBNEHPea/ozQu",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-17T19:34:40.364Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-17T19:34:40.364Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851c6479edb025015e0019f"
+  },
+  "name": "Danielle Tate",
+  "email": "toxite1539@ihnpo.com",
+  "password": "$2b$10$iHG.sS7p8ncVuemkZvknZe6ViLTLb6jsLkNog1m.BWpgst/Dy8nW2",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-17T19:47:19.814Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-17T19:47:19.815Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851cefd0fe92aecb7108499"
+  },
+  "name": "Marvin Yates",
+  "email": "mutracikko@gufum.com",
+  "password": "$2b$10$dnKFkDbaf9ZPz2bfXDifMOo3Bwr3qn955D4ciE2sW2406UZdY0WS.",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1Rb64CE9a5VG73DdJOPGweCv",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-06-17T20:25:12.000Z"
+    },
+    "endDate": {
+      "$date": "2026-06-17T20:25:12.000Z"
+    },
+    "status": "active"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-17T20:24:29.758Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0460fe92aecb710859c"
+  },
+  "name": "Edward Workman",
+  "email": "dortugipse@gufum.com",
+  "password": "$2b$10$ki15hruXj4DbNFW1DixVk.fqrdmMv4zeIxQQsTqHQpg5j5ABsoPCS",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1Rb69IE9a5VG73Ddwl7FjUXA",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-06-17T20:30:28.000Z"
+    },
+    "endDate": {
+      "$date": "2026-06-17T20:30:28.000Z"
+    },
+    "status": "active"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-17T20:29:58.678Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d4680fe92aecb710869f"
+  },
+  "name": "Ferris Shelton",
+  "email": "rufyesurti@gufum.com",
+  "password": "$2b$10$mNapErWIsrNnnuhCNs9PJO0GLWUZqyQ2YoE97SE4iiUotLjoCWcoS",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1Rb6QZE9a5VG73DdksvcpCTJ",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-06-17T20:48:19.000Z"
+    },
+    "endDate": {
+      "$date": "2026-06-17T20:48:19.000Z"
+    },
+    "status": "active"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-17T20:47:36.333Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d66696787f0981cb4cac"
+  },
+  "name": "Zorita Vega",
+  "email": "ruspegakni@gufum.com",
+  "password": "$2b$10$nE0DATb4.AUOzkn8w0iER.fT0WLUmsrZ0XN1pAwKvJu0pcf3OMUR6",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1Rb6YkE9a5VG73DdmvvdsTrD",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-06-17T20:56:46.000Z"
+    },
+    "endDate": {
+      "$date": "2026-06-17T20:56:46.000Z"
+    },
+    "status": "active"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-17T20:56:06.977Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d73a0fe92aecb7108897"
+  },
+  "name": "asxdsad",
+  "email": "rudroyerto@gufum.com",
+  "password": "$2b$10$QqYBZRcQV.gmkwdsIVZpBu49RcqcWadwQR8bAZkK7KOWC6v0zvLSe",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1Rb6cGE9a5VG73Dd1vKJU6hy",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-06-17T21:00:24.000Z"
+    },
+    "endDate": {
+      "$date": "2026-06-17T21:00:24.000Z"
+    },
+    "status": "active"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-17T20:59:38.360Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851f50ce7198ebc064ecf35"
+  },
+  "name": "Rowan Ryan",
+  "email": "rarem63883@ihnpo.com",
+  "password": "$2b$10$70l9yFT57B5FC.82hPfwD.tWKsBpon0nXLS4hvSx8Kuk7ORzFigae",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-06-17T23:06:52.487Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-06-17T23:06:52.489Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 0,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6851f8ef3d2337fa7d33dbf9"
+  },
+  "name": "Leah Underwood",
+  "email": "cadapa5849@nab4.com",
+  "password": "$2b$10$9kzywZ2YuATJf9/MoKIFd.CxlLPCp8rBLkuH2XU3gGRXvsk2PmAry",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1Rb9gLE9a5VG73Ddd7jjcZxX",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-06-18T00:16:49.000Z"
+    },
+    "endDate": {
+      "$date": "2026-06-18T00:16:49.000Z"
+    },
+    "status": "active",
+    "currentStatus": "active"
+  },
+  "purchasedScorecards": [
+    {
+      "scorecardId": "675ae4528811b601343a9457",
+      "expiryDate": {
+        "$date": "2026-06-17T23:25:39.998Z"
+      },
+      "currentStatus": "cancelled",
+      "_id": {
+        "$oid": "6851f9763d2337fa7d33dcff"
+      }
+    },
+    {
+      "scorecardId": "675ae4538811b601343a945d",
+      "expiryDate": {
+        "$date": "2026-06-17T23:25:39.998Z"
+      },
+      "currentStatus": "cancelled",
+      "_id": {
+        "$oid": "6851f9763d2337fa7d33dd00"
+      }
+    }
+  ],
+  "subUsers": [
+    {
+      "name": "Thane Gentry",
+      "email": "ralohiw196@forcrack.com",
+      "password": "$2b$10$0DDLPBFCPT/hJyi5xg14Suv7uGixVeIlESMGUjdG7iDr8p10mQAJ2",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "68520eb0bae56b1deaf6c105"
+      },
+      "createdAt": {
+        "$date": "2025-06-18T00:56:16.247Z"
+      },
+      "updatedAt": {
+        "$date": "2025-06-18T00:56:16.247Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-06-17T23:23:27.785Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 4,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6852e8157d610d3f93dca050"
+  },
+  "name": "Fitzgerald Dickson",
+  "email": "varose9760@forcrack.com",
+  "password": "$2b$10$j/rUin6J6yM0GRFafhWBieoqqq5oUZNWtn3Enhj8i4HyNFRzWzSf6",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1RbOoLE9a5VG73Dde1nOdN75",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-06-18T16:26:04.000Z"
+    },
+    "endDate": {
+      "$date": "2026-06-18T16:26:04.000Z"
+    },
+    "status": "active",
+    "currentStatus": "active"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [
+    {
+      "name": "Shelby Mccarty",
+      "email": "sakijak239@ihnpo.com",
+      "password": "$2b$10$VyQa8aTmb5kTZlRO5mDD4OXEahEOnHhKRH279GJ6eTl1F58ygOZ0a",
+      "rawPassword": "Pa$$w0rd!",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "6852e8ec7d610d3f93dca152"
+      },
+      "createdAt": {
+        "$date": "2025-06-18T16:27:24.008Z"
+      },
+      "updatedAt": {
+        "$date": "2025-06-18T16:27:24.008Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-06-18T16:23:49.939Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T17:26:40.165Z"
+  },
+  "__v": 1,
+  "emailReminders": {
+    "lastReminderSent": null,
+    "nextReminderType": null,
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "687693d6486b36b8dd5a3f28"
+  },
+  "name": "Zain Shhh",
+  "email": "vofase8085@simerm.com",
+  "password": "$2b$10$.fMyQIAvYuyUkIRij1hKvuBc7vw2ey9GlI/aOTt0mo/QpMKcypPJ6",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-07-15T17:45:58.855Z"
+    },
+    "status": "expired"
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-07-15T17:45:58.856Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-15T17:54:29.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6876b2e9486b36b8dd5a411e"
+  },
+  "name": "Zain Shah",
+  "email": "goyini5702@simerm.com",
+  "password": "$2b$10$7kOD5hX6rK.KLvaFgPLyGuxrJ/HuHexkJSfsUGt5EAJqg8KHmFwX2",
+  "isVerified": true,
+  "type": "Admin",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-07-15T19:58:33.383Z"
+    },
+    "status": "expired"
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-07-15T19:58:33.383Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-15T22:51:35.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687a6513f04ed7c20c8626c1"
+  },
+  "name": "Jhon Dee",
+  "email": "dogiwi2214@hadvar.com",
+  "password": "$2b$10$bDRPgn6aL4UrhgunahK52OeLdkRiNHCK59ZXdbbEBwvHfNfk035Zi",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-07-18T15:15:31.961Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-07-18T15:15:31.962Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-18T15:22:56.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687a6777f04ed7c20c8626ce"
+  },
+  "name": "Steve Smith",
+  "email": "kimama2572@luxpolar.com",
+  "password": "$2b$10$.ZXI.tubWXqG7SQxJMc5RO4Bv4Pz2LpYkxaPVCLwE.huth6LElsc.",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-07-18T15:25:43.814Z"
+    }
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-07-18T15:25:43.814Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-18T15:25:43.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689cbb3906ef085cf5a93b1f"
+  },
+  "name": "Octavia Sampson",
+  "email": "liboy82426@elobits.com",
+  "password": "$2b$10$G4Ym4U1kIdlYk/eWSPe7YOJ03Vgz9VzvRehEuaePmYlNiklRaZdX2",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": false,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-08-13T16:21:19.197Z"
+    },
+    "endDate": {
+      "$date": "2025-08-15T16:21:19.197Z"
+    },
+    "status": "expired"
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-08-13T16:20:09.654Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-16T00:00:01.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a73680808db366bfe169fd"
+  },
+  "name": "Test Demo Live",
+  "email": "lasokas205@chaublog.com",
+  "password": "$2b$10$Yw3WrJqmoUbIpg0EUgnv..Y6nhqLoqJi2RnabioSIStPZQ8pjzf..",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": false,
+  "subscription": {
+    "subscriptionId": "sub_1RybFFE9a5VG73Dd2G4gQoLh",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-08-21T16:21:45.000Z"
+    },
+    "endDate": {
+      "$date": "2026-08-21T16:21:45.000Z"
+    },
+    "status": "active",
+    "currentStatus": "cancelled"
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [
+    {
+      "name": "Ian Tonks",
+      "email": "ian.tonks@yahoo.com",
+      "password": "$2b$10$ER1tgusQB4uBFHqEAem63.Id/Q3jfZp74FhSOjQ/nrMJMNj6axBmu",
+      "rawPassword": "11223344",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "68a73d4f808db366bfe173fb"
+      },
+      "createdAt": {
+        "$date": "2025-08-21T15:37:51.589Z"
+      },
+      "updatedAt": {
+        "$date": "2025-08-21T15:37:51.589Z"
+      }
+    },
+    {
+      "name": "Ian Tonks",
+      "email": "ian@iantonkscompanies.com",
+      "password": "$2b$10$WMMs6rdsxsgu47ZAKYHwEuGQjQQicLGOJwLgpUnT45gaasnCWmqbq",
+      "rawPassword": "1122334455",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "68a74959808db366bfe18b72"
+      },
+      "createdAt": {
+        "$date": "2025-08-21T16:29:13.246Z"
+      },
+      "updatedAt": {
+        "$date": "2025-08-21T16:29:13.246Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-21T15:08:48.224Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T16:33:45.880Z"
+  },
+  "__v": 10
+},
+{
+  "_id": {
+    "$oid": "68a8651e9ec964a23abb7ea7"
+  },
+  "name": "Adam",
+  "email": "kibiki8044@iotrama.com",
+  "password": "$2b$10$5/vLD6yH9yv5FmWB1iwIJOh6Ko.RvePxO2ncXm9sKdvPyuArCeH.2",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": false,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-08-22T12:46:45.159Z"
+    },
+    "endDate": {
+      "$date": "2025-08-24T12:46:45.159Z"
+    },
+    "status": "expired"
+  },
+  "purchasedScorecards": [],
+  "subUsers": [
+    {
+      "name": "Talha",
+      "email": "Test@gmail.com",
+      "password": "$2b$10$3h33uvlyqp3sB7Rz.uTTW.JDrDol9Lwe41TuqsLKoNHqLBeXWLBpy",
+      "rawPassword": "123456789",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "68a871499ec964a23abb80ae"
+      },
+      "createdAt": {
+        "$date": "2025-08-22T13:31:53.130Z"
+      },
+      "updatedAt": {
+        "$date": "2025-08-22T13:31:53.130Z"
+      }
+    },
+    {
+      "name": "Talha",
+      "email": "admin@admin.com",
+      "password": "$2b$10$4pttcdqUNI/AxmnoUcXqaenQrigWzIAal5.4c5faF8.1TIcf67lXe",
+      "rawPassword": "2345678",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "68a87cb99ec964a23abb80b4"
+      },
+      "createdAt": {
+        "$date": "2025-08-22T14:20:41.042Z"
+      },
+      "updatedAt": {
+        "$date": "2025-08-22T14:20:41.042Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-22T12:39:58.420Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T00:00:00.262Z"
+  },
+  "__v": 3,
+  "emailReminders": {
+    "remindersSent": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68aefcac3ea3ac7ad9851b77"
+  },
+  "name": "Admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$BYPJm1NHOQh4cY13HA14fuKlVnRk0PsdhETnplilIq9afJGdHkiAW",
+  "isVerified": true,
+  "type": "Admin",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-08-27T12:40:12.365Z"
+    }
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-08-27T12:40:12.367Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T12:40:12.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b6f04ca4b2d14c20f5c916"
+  },
+  "name": "Larissa Tran",
+  "email": "jefyaromli@necub.com",
+  "password": "$2b$10$XWqOzdiJTbsDzZxH73xADuFp0gPJhm2mMelVklbUfcj7mk1ruB4G.",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-09-02T13:25:32.263Z"
+    }
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-09-02T13:25:32.269Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-02T13:25:32.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b874b60d88da8e12896159"
+  },
+  "name": "Raphael Witt",
+  "email": "topsasorta@necub.com",
+  "password": "$2b$10$d.D.zzbFKJSzjJNyO2Yv3.M2ZZXY1yJhAWl0xnYIVTBlQ8t16GPuK",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1S3K7yE9a5VG73DdSPPlr8rX",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-09-03T17:05:46.000Z"
+    },
+    "endDate": {
+      "$date": "2026-09-03T17:05:46.000Z"
+    },
+    "status": "active"
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-09-03T17:02:46.033Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-03T17:06:13.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b87fad94796b9c5bb3f2ab"
+  },
+  "name": "Petra Little",
+  "email": "nokkaherka@necub.com",
+  "password": "$2b$10$dwGMM/j9.N55Se0bmNG4zOV/N2a5Tu/gNYFJ/RorhCxPTIU6ah7lq",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1S3KpFE9a5VG73Ddbe4SJpEf",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-09-03T17:50:29.000Z"
+    },
+    "endDate": {
+      "$date": "2026-09-03T17:50:29.000Z"
+    },
+    "status": "active"
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-09-03T17:49:33.007Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-03T17:50:40.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b8817194796b9c5bb4056c"
+  },
+  "name": "Abbot Mcdonald",
+  "email": "qubyk@mailinator.com",
+  "password": "$2b$10$up.MQA7aqkZhawL1bbcKAeqmFuXOpI26HiP2aQolmS3mQVTNxOCeq",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-09-03T17:57:05.387Z"
+    }
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-09-03T17:57:05.388Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-03T17:57:05.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9c3ea2e90699d8ce6c5a3"
+  },
+  "name": "Kelsey Lowe",
+  "email": "shahzad.itextension@gmail.com",
+  "password": "$2b$10$O6iqcmIqc/pwDeuhti5uauzWZtdaFDkVrmm1Eu5emW17bb4QgL50K",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-09-04T16:52:58.784Z"
+    }
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-09-04T16:52:58.787Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T16:52:58.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9c4a3090f52c5f140b640"
+  },
+  "name": "Kelsey Lowe",
+  "email": "siciwag692@lespedia.com",
+  "password": "$2b$10$/tdnRSKACF5rBIYHQQqn8udkfDx5ZgqASWJ6sMW.dFbDhxamAF6y.",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-09-04T16:56:03.415Z"
+    }
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-09-04T16:56:03.419Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T16:56:03.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9c52a405f7f79211e689b"
+  },
+  "name": "TEst",
+  "email": "cirkadordu@necub.com",
+  "password": "$2b$10$BmNFlFVEw8I6BB1fhq22eu7F/Z1mXVvhRLTMLEn/1ROJYo.ZSlY/q",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-09-04T16:58:18.096Z"
+    }
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-09-04T16:58:18.097Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T16:58:39.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68baf87c72e6d0595e39c7a1"
+  },
+  "name": "Nathan Gilbert",
+  "email": "tignogiyde@necub.com",
+  "password": "$2b$10$0QJmiCFgWBKkYz97qVW5i.QWUDrN99pjLdDCCF07m9Uyyh8zCuIAW",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1S43vnE9a5VG73DdyXw7OQJe",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-09-05T18:00:15.000Z"
+    },
+    "endDate": {
+      "$date": "2026-09-05T18:00:15.000Z"
+    },
+    "status": "active"
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-09-05T14:49:32.417Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-05T18:01:37.108Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bb159d2d0405e825beda81"
+  },
+  "name": "Miriam Rivers",
+  "email": "zorzimospu@necub.com",
+  "password": "$2b$10$SPlsyof7LhnfOdKeFnlpueTSSHwyF6cXv.2KO3AtqDQDwU86FSUJy",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1S4310E9a5VG73Ddxk414YfW",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-09-05T17:01:34.000Z"
+    },
+    "endDate": {
+      "$date": "2026-09-05T17:01:34.000Z"
+    },
+    "status": "active"
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-09-05T16:53:49.094Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-05T17:01:49.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bf1a457b571a835412cbda"
+  },
+  "name": "Amity Shannon",
+  "email": "gurdafulta@necub.com",
+  "password": "$2b$10$P9rzh/wBB53IxD7jS.C.d.vBE65laU6N4AmtqiK5i2DhpdBswh6aW",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1S59QeE9a5VG73DdPgAiiHDY",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-09-08T18:04:36.000Z"
+    },
+    "endDate": {
+      "$date": "2026-09-08T18:04:36.000Z"
+    },
+    "status": "active"
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-09-08T18:02:45.041Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-08T18:04:49.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bf1c6b7b571a835412ccdf"
+  },
+  "name": "Leslie Nolan",
+  "email": "tulmejugna@necub.com",
+  "password": "$2b$10$hS641OOgWLo7mL8PUA5khuk/qkEEj.T6wJHWFjbPPLRyO54dwx.j2",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1S59Z7E9a5VG73DdVtVAh5nB",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-09-08T18:13:21.000Z"
+    },
+    "endDate": {
+      "$date": "2026-09-08T18:13:21.000Z"
+    },
+    "status": "active"
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-09-08T18:11:55.975Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-08T18:13:31.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bf1f617b571a835412e067"
+  },
+  "name": "Jhon Dee",
+  "email": "doyehay462@dextrago.com",
+  "password": "$2b$10$i6VFYv6i20DJBmTeBNHYLu1/5y.xIPgrIksTky2VRtuaIsKnZm92.",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-09-08T18:24:58.874Z"
+    },
+    "endDate": {
+      "$date": "2025-09-10T18:24:58.874Z"
+    },
+    "status": "expired"
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-09-08T18:24:33.640Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T00:00:00.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c06227f58c6acd45390879"
+  },
+  "name": "Keith Nunez",
+  "email": "dacojug@mailinator.com",
+  "password": "$2b$10$NnUrBHK4CZW6iflFWg6yRekTIcd6Mg/s8UzD6GP/bmoWy1FZLILim",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-09-09T17:21:43.076Z"
+    }
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-09-09T17:21:43.078Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-09T17:21:43.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c145fe89727c8ba0f53449"
+  },
+  "name": "Regan Bennett",
+  "email": "kohecid277@ncien.com",
+  "password": "$2b$10$vAnIQLhlEKCoZxZA2hepjOXddt2kSG6Cx.WERTj2JEYzao8x60Sm.",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "subscriptionId": "sub_1S5kQIE9a5VG73DdX9znjofc",
+    "planId": "UNLIMITED",
+    "startDate": {
+      "$date": "2025-09-10T09:34:42.000Z"
+    },
+    "endDate": {
+      "$date": "2026-09-10T09:34:42.000Z"
+    },
+    "status": "active"
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-09-10T09:33:50.581Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-10T09:34:50.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cc22a2e382c5d481cdee02"
+  },
+  "name": "Ian Tonks",
+  "email": "ian.tonks@yahoo.com",
+  "password": "$2b$10$2VqnbCDkN1WQ8IEOvPJ6YeKhoFjXbv7ZOPO3t5AanScow1rz.0TcK",
+  "isVerified": true,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-09-18T15:18:51.819Z"
+    },
+    "endDate": {
+      "$date": "2025-09-20T15:18:51.819Z"
+    }
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [
+    {
+      "name": "Ian M Tonks",
+      "email": "ian.tonks@yahoo.com",
+      "password": "$2b$10$pcMTlKz44V.2AOg5uLNGNer4JJS2/KuJs/mpPRJ6ZqwR95jeRO0BS",
+      "rawPassword": "tonks1966",
+      "emailSubscribed": true,
+      "accessScorecards": [],
+      "_id": {
+        "$oid": "68cc255be382c5d481cdf11c"
+      },
+      "createdAt": {
+        "$date": "2025-09-18T15:29:31.323Z"
+      },
+      "updatedAt": {
+        "$date": "2025-09-18T15:29:31.323Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-18T15:17:54.401Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T15:29:31.323Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "68d56b192f77470753c10369"
+  },
+  "name": "Len Johns",
+  "email": "guvefew@mailinator.com",
+  "password": "$2b$10$HyMsf6e0xVeWqvw7ri.4a.fW30.C8H/0wWtNHHZ7uGi3Kd18pvC/G",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-09-25T16:17:29.148Z"
+    }
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-09-25T16:17:29.149Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-25T16:17:29.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d574232f77470753c1036f"
+  },
+  "name": "Len Johns",
+  "email": "kipsesikni@necub.com",
+  "password": "$2b$10$wE5dsHn5ZbMKeoqC3k.UIuYwiDS4sarRqJo4LBU7NQNHoBg8N4412",
+  "isVerified": false,
+  "type": "Client",
+  "emailSubscribed": true,
+  "subscription": {
+    "planId": "default",
+    "currentStatus": "active",
+    "startDate": {
+      "$date": "2025-09-25T16:56:03.372Z"
+    }
+  },
+  "emailReminders": {
+    "lastReminderSent": null,
+    "remindersSent": [],
+    "nextReminderType": null
+  },
+  "purchasedScorecards": [],
+  "subUsers": [],
+  "createdAt": {
+    "$date": "2025-09-25T16:56:03.374Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-25T16:56:03.374Z"
+  },
+  "__v": 0
+}]

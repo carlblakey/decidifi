@@ -1,0 +1,5230 @@
+[{
+  "_id": {
+    "$oid": "675ae3fe8811b601343a9302"
+  },
+  "title": "Decide on a general parenting philosophy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae3fe8811b601343a9304"
+  },
+  "title": "Decide on a set of rules to guide a child's understanding of responsibility and ethics",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae3ff8811b601343a9306"
+  },
+  "title": "Decide which family values to promote and celebrate",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae3ff8811b601343a9308"
+  },
+  "title": "Decide which family goals to prioritize and pursue",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4008811b601343a930a"
+  },
+  "title": "Choose an extracurricular activity for a child",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4008811b601343a930c"
+  },
+  "title": "Choose a summer camp for a child",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4018811b601343a930e"
+  },
+  "title": "Decide whether to have a child",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4018811b601343a9310"
+  },
+  "title": "Decide whether to adopt or foster a child",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4028811b601343a9312"
+  },
+  "title": "Decide which pet to get",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4038811b601343a9314"
+  },
+  "title": "Decide which family traditions to continue or discontinue",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4038811b601343a9316"
+  },
+  "title": "Decide which chores and responsibilities to assign to family members",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4048811b601343a9318"
+  },
+  "title": "Decide how to assign shared child-rearing responsibilities",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4048811b601343a931a"
+  },
+  "title": "Choose a long-term care option for a parent",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4058811b601343a931c"
+  },
+  "title": "Decide on co-parenting arrangements after separation or divorce",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4058811b601343a931e"
+  },
+  "title": "Decide whether to start a relationship",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4068811b601343a9320"
+  },
+  "title": "Decide whether to move in with a partner",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4068811b601343a9322"
+  },
+  "title": "Decide whether to get married",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4078811b601343a9324"
+  },
+  "title": "Decide which wedding venue to pick",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4078811b601343a9326"
+  },
+  "title": "Decide which party venue to pick",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4088811b601343a9328"
+  },
+  "title": "Decide who to be friends with",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4088811b601343a932a"
+  },
+  "title": "Decide whether to end an unproductive relationship or friendship",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4098811b601343a932c"
+  },
+  "title": "Decide whether to confront someone about a difficult issue",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4098811b601343a932e"
+  },
+  "title": "Decide when to say no to a requested commitment",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae40a8811b601343a9330"
+  },
+  "title": "Decide whether to pursue a long distance relationship",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae40a8811b601343a9332"
+  },
+  "title": "Decide whether to co-sign or financially back someone",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae40b8811b601343a9334"
+  },
+  "title": "Decide whether to reconcile with estranged family or friends",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae40b8811b601343a9336"
+  },
+  "title": "Decide whether to attend couples counseling",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae40c8811b601343a9338"
+  },
+  "title": "Decide which couples counselor to see",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae40c8811b601343a933a"
+  },
+  "title": "Decide which healthcare plan to choose",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae40d8811b601343a933c"
+  },
+  "title": "Decide which nutritional plan or diet to follow",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae40d8811b601343a933e"
+  },
+  "title": "Decide which exercise regimen or method to commit to",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae40e8811b601343a9340"
+  },
+  "title": "Decide which gym to join",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae40e8811b601343a9342"
+  },
+  "title": "Decide which personal trainer to hire",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae40f8811b601343a9344"
+  },
+  "title": "Decide which dietician/nutritionist to hire",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae40f8811b601343a9346"
+  },
+  "title": "Decide which hobby or passion to pursue",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4108811b601343a9348"
+  },
+  "title": "Decide which sport to play",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4108811b601343a934a"
+  },
+  "title": "Decide which golf or country club to join",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4118811b601343a934c"
+  },
+  "title": "Decide which piece of home fitness equipment to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4118811b601343a934e"
+  },
+  "title": "Decide which athletic watch to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4128811b601343a9350"
+  },
+  "title": "Decide which meal delivery service to use",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4128811b601343a9352"
+  },
+  "title": "Decide which health supplements to take",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4138811b601343a9354"
+  },
+  "title": "Decide which holistic health approach to adopt (e.g., acupuncture, chiropractic)",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4138811b601343a9356"
+  },
+  "title": "Decide which sports recovery method to try (e.g., cryotherapy, massage)",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4148811b601343a9358"
+  },
+  "title": "Decide which healthy habit to incorporate into your daily routine",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4148811b601343a935a"
+  },
+  "title": "Decide which meditation or mindfulness practice to adopt",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4158811b601343a935c"
+  },
+  "title": "Decide which preventative health measures to implement (e.g., vaccinations, screenings)",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4158811b601343a935e"
+  },
+  "title": "Decide which alternative health treatment to try (e.g., herbal remedies, naturopathy)",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4168811b601343a9360"
+  },
+  "title": "Decide which detox or cleanse program to follow",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4168811b601343a9362"
+  },
+  "title": "Decide which weight management strategy to pursue",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4168811b601343a9364"
+  },
+  "title": "Decide which smoking cessation program to follow",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4178811b601343a9366"
+  },
+  "title": "Decide which stretching routine to incorporate",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4178811b601343a9368"
+  },
+  "title": "Decide which fitness tracker app or platform to use",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4188811b601343a936a"
+  },
+  "title": "Decide which field you want to specialize in",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4188811b601343a936c"
+  },
+  "title": "Decide which industry you want to work in",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4198811b601343a936e"
+  },
+  "title": "Decide which job to pursue",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4198811b601343a9370"
+  },
+  "title": "Decide which career guidance coach to hire",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae41a8811b601343a9372"
+  },
+  "title": "Decide which job offer to accept",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae41a8811b601343a9374"
+  },
+  "title": "Decide to stay in your current role or seek a promotion",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae41b8811b601343a9376"
+  },
+  "title": "Decide to stay in your current role or seek employment elsewhere",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae41b8811b601343a9378"
+  },
+  "title": "Decide to go back to work after an extended break",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae41b8811b601343a937a"
+  },
+  "title": "Decide to start a business",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae41c8811b601343a937c"
+  },
+  "title": "Decide which business to start",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae41c8811b601343a937e"
+  },
+  "title": "Decide to buy a business",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae41d8811b601343a9381"
+  },
+  "title": "Decide which business to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae41d8811b601343a9383"
+  },
+  "title": "Decide whether to take a sabbatical",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae41e8811b601343a9385"
+  },
+  "title": "Decide when to retire",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae41e8811b601343a9387"
+  },
+  "title": "Decide to sell a business",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae41f8811b601343a9389"
+  },
+  "title": "Decide who to sell a business to",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4208811b601343a938b"
+  },
+  "title": "Decide to create a nonprofit",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4208811b601343a938d"
+  },
+  "title": "Decide which nonprofit to start",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4208811b601343a938f"
+  },
+  "title": "Decide to run for office",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4218811b601343a9391"
+  },
+  "title": "Decide which office to run for",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4218811b601343a9393"
+  },
+  "title": "Decide whether to start a side hustle",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4228811b601343a9395"
+  },
+  "title": "Decide which side hustle to pursue",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4228811b601343a9397"
+  },
+  "title": "Decide whether to be career-focused or family-focused",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4238811b601343a9399"
+  },
+  "title": "Decide what your personal professional brand is",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4238811b601343a939b"
+  },
+  "title": "Decide which work-related skills and experience to develop",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4248811b601343a939d"
+  },
+  "title": "Decide which niche to become an expert in",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4248811b601343a939f"
+  },
+  "title": "Decide whether to write a book",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4258811b601343a93a1"
+  },
+  "title": "Decide which book to write",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4258811b601343a93a3"
+  },
+  "title": "Decide whether to buy a franchise",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4268811b601343a93a5"
+  },
+  "title": "Decide which franchise to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4268811b601343a93a7"
+  },
+  "title": "Decide whether to create a position to hire to",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4278811b601343a93a9"
+  },
+  "title": "Decide which job candidates to shortlist",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4278811b601343a93ab"
+  },
+  "title": "Decide which entry-level employee to hire",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4288811b601343a93ad"
+  },
+  "title": "Decide which supervisor-level employee to promote or hire",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4288811b601343a93af"
+  },
+  "title": "Decide which manager-level employee to promote or hire",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4288811b601343a93b1"
+  },
+  "title": "Decide which director-level employee to promote or hire",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4298811b601343a93b3"
+  },
+  "title": "Decide which executive-level employee to promote or hire",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4298811b601343a93b5"
+  },
+  "title": "Decide whether an employee or contractor is underperforming",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae42a8811b601343a93b7"
+  },
+  "title": "Decide whether to terminate an employee or contractor",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae42a8811b601343a93b9"
+  },
+  "title": "Decide who to mentor",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae42b8811b601343a93bb"
+  },
+  "title": "Decide who to be mentored by",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae42b8811b601343a93bd"
+  },
+  "title": "Decide what work-life balance should look like for you",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae42c8811b601343a93bf"
+  },
+  "title": "Decide which peer advisory group to join",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae42c8811b601343a93c1"
+  },
+  "title": "Decide which industry or trade group or association to join",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae42d8811b601343a93c3"
+  },
+  "title": "Decide which industry conference or workshop to attend",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae42d8811b601343a93c5"
+  },
+  "title": "Decide which employee recognition and rewards program to introduce",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae42d8811b601343a93c7"
+  },
+  "title": "Decide which competitive advantages position you favorably in the marketplace",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae42e8811b601343a93c9"
+  },
+  "title": "Decide which strategic business partnerships or collaborations to pursue",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae42e8811b601343a93cb"
+  },
+  "title": "Decide which external consultant or expert to hire",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae42f8811b601343a93cd"
+  },
+  "title": "Decide which employee benefits program to select",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae42f8811b601343a93cf"
+  },
+  "title": "Decide which workplace wellness program to choose",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4308811b601343a93d1"
+  },
+  "title": "Decide which product or service opportunity to pursue",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4308811b601343a93d3"
+  },
+  "title": "Decide which product or service innovation to investigate",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4318811b601343a93d5"
+  },
+  "title": "Decide which software or automation tool to adopt",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4318811b601343a93d7"
+  },
+  "title": "Decide which team members to collaborate with on a work assignment or project",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4328811b601343a93d9"
+  },
+  "title": "Decide which tasks to delegate to others",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4328811b601343a93db"
+  },
+  "title": "Decide which organization to merge with or acquire",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4338811b601343a93dd"
+  },
+  "title": "Decide whether to take a business risk",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4338811b601343a93df"
+  },
+  "title": "Decide which scorecard criteria are important to you in tracking your business' operations",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4338811b601343a93e1"
+  },
+  "title": "Decide which workplace benefits to take advantage of",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4348811b601343a93e3"
+  },
+  "title": "Decide whether to work in-office, remotely, or a hybrid of both",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4348811b601343a93e5"
+  },
+  "title": "Decide who to build your professional network around",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4358811b601343a93e7"
+  },
+  "title": "Decide which project to prioritize",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4368811b601343a93e9"
+  },
+  "title": "Decide which marketing strategy to prioritize",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4368811b601343a93eb"
+  },
+  "title": "Decide whether to outsource a business function",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4368811b601343a93ed"
+  },
+  "title": "Decide who to outsource a business function to",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4388811b601343a93ef"
+  },
+  "title": "Decide which vendor to choose for a major contract",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4388811b601343a93f1"
+  },
+  "title": "Decide which freelance platform to use for hiring",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4398811b601343a93f3"
+  },
+  "title": "Decide which hiring platform to use",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4398811b601343a93f5"
+  },
+  "title": "Decide whether to join a co-working space",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae43a8811b601343a93f7"
+  },
+  "title": "Decide which shipping company to work with",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae43a8811b601343a93f9"
+  },
+  "title": "Decide whether to implement a flexible work schedule",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae43b8811b601343a93fb"
+  },
+  "title": "Decide which eCommerce platform to use",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae43b8811b601343a93fd"
+  },
+  "title": "Decide which financial advisor to work with",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae43c8811b601343a93ff"
+  },
+  "title": "Decide which CPA to work with",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae43c8811b601343a9401"
+  },
+  "title": "Decide which insurance broker to work with",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae43d8811b601343a9403"
+  },
+  "title": "Decide which legal advisor to work with",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae43d8811b601343a9405"
+  },
+  "title": "Decide which mental health specialist to consult",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae43e8811b601343a9407"
+  },
+  "title": "Decide which medical doctor to consult",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae43e8811b601343a9409"
+  },
+  "title": "Decide which estate planner to consult",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae43f8811b601343a940b"
+  },
+  "title": "Decide which life coach to work with",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae43f8811b601343a940d"
+  },
+  "title": "Decide which spiritual advisor to seek guidance from",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae43f8811b601343a940f"
+  },
+  "title": "Decide whether to have cosmetic surgery",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4408811b601343a9411"
+  },
+  "title": "Decide which cosmetic surgeon to choose",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4418811b601343a9413"
+  },
+  "title": "Decide whether to take out a loan",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4418811b601343a9415"
+  },
+  "title": "Decide which loan company or officer to work with",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4418811b601343a9417"
+  },
+  "title": "Decide which financial institution to bank with",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4428811b601343a9419"
+  },
+  "title": "Decide whether to hire a nanny",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4438811b601343a941b"
+  },
+  "title": "Decide which nanny to hire",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4438811b601343a941d"
+  },
+  "title": "Decide whether to create a will or estate plan",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4438811b601343a941f"
+  },
+  "title": "Decide which cleaner to hire",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4448811b601343a9421"
+  },
+  "title": "Decide which landscaper to hire",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4448811b601343a9423"
+  },
+  "title": "Decide which domestic chore or household responsibility to outsource",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4458811b601343a9425"
+  },
+  "title": "Decide between enrolling your children in school or homeschooling them",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4458811b601343a9427"
+  },
+  "title": "Decide which homeschooling program to choose",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4468811b601343a9429"
+  },
+  "title": "Decide which pre-school to attend",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4468811b601343a942b"
+  },
+  "title": "Decide which elementary school to attend",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4468811b601343a942d"
+  },
+  "title": "Decide which middle school to attend",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4478811b601343a942f"
+  },
+  "title": "Decide which extra-curricular tutor to hire",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4478811b601343a9431"
+  },
+  "title": "Decide which high school to attend",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4488811b601343a9433"
+  },
+  "title": "Decide which trade or technical school to attend",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4488811b601343a9435"
+  },
+  "title": "Decide whether to go straight from High School to work",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4498811b601343a9437"
+  },
+  "title": "Decide whether to go to college",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4498811b601343a9439"
+  },
+  "title": "Decide which college to attend",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4498811b601343a943b"
+  },
+  "title": "Decide whether to attend community college for 2 years and then transfer to a 4-year college",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae44a8811b601343a943d"
+  },
+  "title": "Decide which college major to choose",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae44a8811b601343a943f"
+  },
+  "title": "Decide which college minor to choose",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae44b8811b601343a9441"
+  },
+  "title": "Decide whether to join a fraternity or sorority",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae44c8811b601343a9443"
+  },
+  "title": "Decide which fraternity or sorority to join",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae44d8811b601343a9445"
+  },
+  "title": "Decide which college internship to pursue",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae44d8811b601343a9447"
+  },
+  "title": "Decide whether to continue education after obtaining a degree",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae44e8811b601343a9449"
+  },
+  "title": "Decide which advanced degree to pursue",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae44e8811b601343a944b"
+  },
+  "title": "Decide which online course to take",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae44f8811b601343a944d"
+  },
+  "title": "Decide which certification to pursue",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4508811b601343a944f"
+  },
+  "title": "Decide which book to read for professional development",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4508811b601343a9451"
+  },
+  "title": "Decide which seminar or workshop to attend for professional development",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4518811b601343a9453"
+  },
+  "title": "Decide whether to enroll in a training program",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4518811b601343a9455"
+  },
+  "title": "Decide which training program to enroll in",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4528811b601343a9457"
+  },
+  "title": "Decide whether to pursue a spiritual path",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4528811b601343a9459"
+  },
+  "title": "Decide which church to belong to",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4538811b601343a945b"
+  },
+  "title": "Decide which temple to belong to",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4538811b601343a945d"
+  },
+  "title": "Decide which mosque to belong to",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4548811b601343a945f"
+  },
+  "title": "Decide which charity to donate to",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4558811b601343a9461"
+  },
+  "title": "Decide which charitable organization to volunteer for",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4558811b601343a9463"
+  },
+  "title": "Decide on a political affiliation",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4558811b601343a9465"
+  },
+  "title": "Decide which politician to vote for",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4568811b601343a9467"
+  },
+  "title": "Decide which local environmental initiative to engage in",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4578811b601343a9469"
+  },
+  "title": "Decide to buy a house",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4588811b601343a946b"
+  },
+  "title": "Decide to rent a house",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4588811b601343a946d"
+  },
+  "title": "Decide to build a house",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4598811b601343a946f"
+  },
+  "title": "Decide which single family residence to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4598811b601343a9471"
+  },
+  "title": "Decide which single family residence to rent",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae45a8811b601343a9473"
+  },
+  "title": "Decide on single family residence design-build preferences",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae45a8811b601343a9475"
+  },
+  "title": "Decide which townhouse or condominium to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae45b8811b601343a9477"
+  },
+  "title": "Decide which townhouse or condominium to rent",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae45b8811b601343a9479"
+  },
+  "title": "Decide which commercial building to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae45b8811b601343a947b"
+  },
+  "title": "Decide which commercial building to rent",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae45c8811b601343a947d"
+  },
+  "title": "Decide which second home or extended vacation property to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae45c8811b601343a947f"
+  },
+  "title": "Decide which second home or extended vacation property to rent",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae45d8811b601343a9481"
+  },
+  "title": "Decide which short-term vacation property to rent",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae45d8811b601343a9483"
+  },
+  "title": "Decide which investment property to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae45e8811b601343a9485"
+  },
+  "title": "Decide whether to go solar",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae45e8811b601343a9487"
+  },
+  "title": "Decide which solar installation company to choose",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae45f8811b601343a9489"
+  },
+  "title": "Decide whether to invest in home improvements or renovations",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae45f8811b601343a948b"
+  },
+  "title": "Decide which home improvements to invest in",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4608811b601343a948d"
+  },
+  "title": "Decide which home remodeling company to choose",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4608811b601343a948f"
+  },
+  "title": "Decide which alternative living arrangement (i.e., tiny house, co-housing, etc.) to choose",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4608811b601343a9491"
+  },
+  "title": "Decide whether to downsize your home",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4618811b601343a9493"
+  },
+  "title": "Decide whether to refinance a mortgage",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4618811b601343a9495"
+  },
+  "title": "Decide whether to buy or lease a vehicle",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4628811b601343a9497"
+  },
+  "title": "Decide whether to buy or lease a new or used car or truck",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4628811b601343a9499"
+  },
+  "title": "Decide which new car or truck to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4638811b601343a949b"
+  },
+  "title": "Decide which new car or truck to lease",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4638811b601343a949d"
+  },
+  "title": "Decide which used car or truck to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4648811b601343a949f"
+  },
+  "title": "Decide which used car or truck to lease",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4648811b601343a94a1"
+  },
+  "title": "Decide whether to buy or lease an electric car",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4658811b601343a94a3"
+  },
+  "title": "Decide which electric car to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4658811b601343a94a5"
+  },
+  "title": "Decide which electric car to lease",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4658811b601343a94a7"
+  },
+  "title": "Decide which motorcycle to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4668811b601343a94a9"
+  },
+  "title": "Decide which motorcycle to lease",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4668811b601343a94ab"
+  },
+  "title": "Decide which bicycle to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4678811b601343a94ad"
+  },
+  "title": "Decide which boat to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4678811b601343a94af"
+  },
+  "title": "Decide which eBike to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4688811b601343a94b1"
+  },
+  "title": "Decide which RV to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4688811b601343a94b3"
+  },
+  "title": "Decide which desktop computer to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4698811b601343a94b5"
+  },
+  "title": "Decide which laptop computer to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4698811b601343a94b7"
+  },
+  "title": "Decide which pad to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae46a8811b601343a94b9"
+  },
+  "title": "Decide which smartphone to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae46a8811b601343a94bb"
+  },
+  "title": "Decide which smartwatch to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae46a8811b601343a94bd"
+  },
+  "title": "Decide which TV to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae46b8811b601343a94bf"
+  },
+  "title": "Decide which gaming console to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae46c8811b601343a94c1"
+  },
+  "title": "Decide which home theater system to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae46c8811b601343a94c3"
+  },
+  "title": "Decide which refrigerator/freezer to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae46d8811b601343a94c5"
+  },
+  "title": "Decide which washer/dryer to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae46d8811b601343a94c7"
+  },
+  "title": "Decide which bed/mattress to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae46d8811b601343a94c9"
+  },
+  "title": "Decide which closet organization system to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae46e8811b601343a94cb"
+  },
+  "title": "Decide which home security system to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae46e8811b601343a94cd"
+  },
+  "title": "Decide which flooring to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae46f8811b601343a94cf"
+  },
+  "title": "Decide which lighting system to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4708811b601343a94d1"
+  },
+  "title": "Decide which furniture collection to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4708811b601343a94d3"
+  },
+  "title": "Decide which designer brand to shop",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4718811b601343a94d5"
+  },
+  "title": "Decide which golf clubs to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4718811b601343a94d7"
+  },
+  "title": "Decide which gift to buy",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4718811b601343a94d9"
+  },
+  "title": "Decide which credit card to use to maximize rewards and benefits",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4728811b601343a94db"
+  },
+  "title": "Decide which technology gadget to invest in to improve productivity",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4738811b601343a94dd"
+  },
+  "title": "Decide which social media platform(s) to engage in",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4738811b601343a94df"
+  },
+  "title": "Decide whether to keep personal possessions or throw away/donate them",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4738811b601343a94e1"
+  },
+  "title": "Decide whether to use a scorecard to make a decision",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4748811b601343a94e3"
+  },
+  "title": "Decide if a quick-view scorecard is sufficient to make a decision",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae4748811b601343a94e5"
+  },
+  "title": "Decide if an in-depth scorecard is necessary to make a decision",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677eb01c55aa1d281524f534"
+  },
+  "title": "First Scorecard",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-08T17:04:28.815Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-08T17:04:28.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677ed9294fb02cc645fc6007"
+  },
+  "title": "Second Scorecard",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-08T19:59:37.996Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-08T19:59:37.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677f1c09685e6c8d6e9d4b24"
+  },
+  "title": "SD",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-09T00:44:57.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-09T00:44:57.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6781537ec3f4e1b1ac16ed4e"
+  },
+  "title": "SD",
+  "createdBy": {
+    "$oid": "67814effc3f4e1b1ac16ece3"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-10T17:06:06.790Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-10T17:06:06.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67815734c3f4e1b1ac16ee50"
+  },
+  "title": "SDF",
+  "createdBy": {
+    "$oid": "67814effc3f4e1b1ac16ece3"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-10T17:21:56.050Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-10T17:21:56.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67815746c3f4e1b1ac16ee5e"
+  },
+  "title": "SSDF",
+  "createdBy": {
+    "$oid": "67814effc3f4e1b1ac16ece3"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-10T17:22:14.196Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-10T17:22:14.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67819de19828e98d0aa86035"
+  },
+  "title": "ASAA",
+  "createdBy": {
+    "$oid": "67814effc3f4e1b1ac16ece3"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-10T22:23:29.462Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-10T22:23:29.462Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67857ba36466a9d61701cce9"
+  },
+  "title": "new scorecard",
+  "createdBy": {
+    "$oid": "678578466466a9d61701ccde"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-13T20:46:27.201Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-13T20:46:27.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67857c036466a9d61701ccef"
+  },
+  "title": "new",
+  "createdBy": {
+    "$oid": "678578466466a9d61701ccde"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-13T20:48:03.961Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-13T20:48:03.961Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678eba521a8013ca1aa057f5"
+  },
+  "title": "Friends",
+  "createdBy": {
+    "$oid": "6779933183a83df7ead3ed90"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-20T21:04:18.420Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-20T21:04:18.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678eba911a8013ca1aa057f8"
+  },
+  "title": "Friends",
+  "createdBy": {
+    "$oid": "6779933183a83df7ead3ed90"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-20T21:05:21.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-20T21:05:21.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678ebaa11a8013ca1aa057fb"
+  },
+  "title": "Friends",
+  "createdBy": {
+    "$oid": "6779933183a83df7ead3ed90"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-20T21:05:37.449Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-20T21:05:37.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678ebb741a8013ca1aa05802"
+  },
+  "title": "Jamestown",
+  "createdBy": {
+    "$oid": "6779933183a83df7ead3ed90"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-20T21:09:08.307Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-20T21:09:08.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678ebc1a1a8013ca1aa0580d"
+  },
+  "title": "Friends",
+  "createdBy": {
+    "$oid": "6779933183a83df7ead3ed90"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-20T21:11:54.307Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-20T21:11:54.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6790060efdacadb786e0a3e1"
+  },
+  "title": "sss",
+  "createdBy": {
+    "$oid": "678ffcf1c24cd164c13188ff"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-21T20:39:42.459Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-21T20:39:42.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6790278f81b878e17c648973"
+  },
+  "title": "Blank",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-21T23:02:39.933Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-21T23:02:39.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679028fa81b878e17c64a0d3"
+  },
+  "title": "BLANK 2",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-21T23:08:42.104Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-21T23:08:42.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6791285ffcc63d408d84ed52"
+  },
+  "title": "ssss",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-22T17:18:23.781Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-22T17:18:23.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6791288ffcc63d408d850436"
+  },
+  "title": "ss",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-22T17:19:11.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-22T17:19:11.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679128bafcc63d408d851b1a"
+  },
+  "title": "dddd",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-22T17:19:54.212Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-22T17:19:54.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67912917fcc63d408d8548c8"
+  },
+  "title": "sas",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-22T17:21:27.468Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-22T17:21:27.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6793f8c09f07d47e3ae80f52"
+  },
+  "title": "mmmm",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-24T20:32:00.677Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T20:32:00.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6793f96b9f07d47e3ae82744"
+  },
+  "title": "b m",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-24T20:34:51.422Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T20:34:51.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6793f9d59f07d47e3ae83f46"
+  },
+  "title": "ss m",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-24T20:36:37.324Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T20:36:37.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6793fa739f07d47e3ae8575c"
+  },
+  "title": "in b s",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-24T20:39:15.434Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T20:39:15.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6793fae29f07d47e3ae86f47"
+  },
+  "title": "in b m",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-24T20:41:06.062Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T20:41:06.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6797f19e892a1169e2fdd9e5"
+  },
+  "title": "Balls",
+  "createdBy": {
+    "$oid": "6779933183a83df7ead3ed90"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-27T20:50:38.075Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T20:50:38.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6797f206892a1169e2fddadf"
+  },
+  "title": "Scorecard Test",
+  "createdBy": {
+    "$oid": "6779933183a83df7ead3ed90"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-27T20:52:22.199Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T20:52:22.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679aac60610993be88e913fe"
+  },
+  "title": "ss",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-29T22:32:00.108Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T22:32:00.108Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d2f13a7e0fa520b7f18f7"
+  },
+  "title": "Sample Scorecard",
+  "quickViewScorecard": [
+    {
+      "key": 1,
+      "category": "Finance",
+      "criteria": "Budget Planning",
+      "weighting": 5,
+      "_id": {
+        "$oid": "679d2f13a7e0fa520b7f18f8"
+      }
+    }
+  ],
+  "inDepthScorecard": [
+    {
+      "key": 1,
+      "category": "Management",
+      "criteria": "Team Leadership",
+      "weighting": 8,
+      "rowSpan": 2,
+      "_id": {
+        "$oid": "679d2f13a7e0fa520b7f18f9"
+      }
+    }
+  ],
+  "createdBy": {
+    "$oid": "679d27735dca9d49586f4d4c"
+  },
+  "isTemplate": false,
+  "createdAt": {
+    "$date": "2025-01-31T20:14:11.370Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T20:14:11.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d438a61b928dce7c6bcab"
+  },
+  "title": "Max Test Scorecard",
+  "createdBy": {
+    "$oid": "679d412e61b928dce7c6b9b0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-31T21:41:30.084Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T21:41:30.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d447861b928dce7c6bfa8"
+  },
+  "title": "Max is Testing Blank Scorecard In Depth",
+  "createdBy": {
+    "$oid": "679d412e61b928dce7c6b9b0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-31T21:45:28.694Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T21:45:28.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d44cf61b928dce7c6c198"
+  },
+  "title": "Max is Testing In Depth Multi Contributor Blank Scorecard",
+  "createdBy": {
+    "$oid": "679d412e61b928dce7c6b9b0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-01-31T21:46:55.156Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T21:46:55.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a12df90f4543465cf3e24e"
+  },
+  "title": "Version 1",
+  "createdBy": {
+    "$oid": "6779933183a83df7ead3ed90"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-03T20:58:33.298Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T20:58:33.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a14d9370eb69e19fc596e1"
+  },
+  "title": "testing",
+  "quickViewScorecard": [
+    {
+      "key": 4,
+      "category": "Classroom Size and Attention",
+      "criteria": "The preschool offers manageable class sizes that ensure individualized attention and support for your child.",
+      "weighting": 0,
+      "_id": {
+        "$oid": "67a165f8ad881d3a35c7f6fb"
+      }
+    },
+    {
+      "key": 3,
+      "category": "Staff Qualifications and Care",
+      "criteria": "The preschool teachers and staff are qualified, experienced, and provide a caring and nurturing environment for children.",
+      "weighting": 0,
+      "_id": {
+        "$oid": "67a14e0570eb69e19fc597d9"
+      }
+    },
+    {
+      "key": 2,
+      "category": "Social Interaction and Group Play",
+      "criteria": "The preschool provides opportunities for group play and social interaction with peers in a supportive environment.",
+      "weighting": 0,
+      "_id": {
+        "$oid": "67a14d9370eb69e19fc596e2"
+      }
+    },
+    {
+      "key": 1,
+      "category": "Teaching Style and Curriculum",
+      "criteria": "The preschool’s teaching methods and curriculum align with your educational values and your child's learning style.",
+      "weighting": 0,
+      "_id": {
+        "$oid": "67a14d9370eb69e19fc596e3"
+      }
+    }
+  ],
+  "inDepthScorecard": [
+    {
+      "key": 7,
+      "category": "Staff Qualifications and Care",
+      "criteria": "The preschool staff are qualified and experienced in early childhood education, ensuring your child is in capable hands.",
+      "weighting": 0,
+      "rowSpan": 3,
+      "_id": {
+        "$oid": "67a16653ad881d3a35c7f735"
+      }
+    },
+    {
+      "key": 8,
+      "category": "Staff Qualifications and Care",
+      "criteria": "Teachers and caregivers provide a nurturing and attentive environment that makes your child feel safe and supported.",
+      "weighting": 0,
+      "rowSpan": 0,
+      "_id": {
+        "$oid": "67a16653ad881d3a35c7f736"
+      }
+    },
+    {
+      "key": 9,
+      "category": "Staff Qualifications and Care",
+      "criteria": "Staff-to-child ratios are low enough to ensure personalized attention for each child.",
+      "weighting": 0,
+      "rowSpan": 0,
+      "_id": {
+        "$oid": "67a16653ad881d3a35c7f737"
+      }
+    },
+    {
+      "key": 4,
+      "category": "Social Interaction and Group Play",
+      "criteria": "The preschool promotes healthy peer interactions and offers plenty of group activities for social development.",
+      "weighting": 0,
+      "rowSpan": 3,
+      "_id": {
+        "$oid": "67a14e4b70eb69e19fc59806"
+      }
+    },
+    {
+      "key": 5,
+      "category": "Social Interaction and Group Play",
+      "criteria": "Your child will have regular opportunities to learn and play with other children, building social skills.",
+      "weighting": 0,
+      "rowSpan": 0,
+      "_id": {
+        "$oid": "67a14e4b70eb69e19fc59807"
+      }
+    },
+    {
+      "key": 6,
+      "category": "Social Interaction and Group Play",
+      "criteria": "The school fosters a positive environment for your child to form friendships and develop communication skills.",
+      "weighting": 0,
+      "rowSpan": 0,
+      "_id": {
+        "$oid": "67a14e4b70eb69e19fc59808"
+      }
+    },
+    {
+      "key": 1,
+      "category": "Teaching Style and Curriculum",
+      "criteria": "The preschool’s teaching methods align with your child’s learning style, whether it’s play-based, structured, or a mix of both.",
+      "weighting": 0,
+      "rowSpan": 3,
+      "_id": {
+        "$oid": "67a14d9370eb69e19fc596e4"
+      }
+    },
+    {
+      "key": 2,
+      "category": "Teaching Style and Curriculum",
+      "criteria": "The curriculum covers both academic foundations and developmental milestones appropriate for your child’s age.",
+      "weighting": 0,
+      "rowSpan": 0,
+      "_id": {
+        "$oid": "67a14d9370eb69e19fc596e5"
+      }
+    },
+    {
+      "key": 3,
+      "category": "Teaching Style and Curriculum",
+      "criteria": "The balance between structured activities and free play meets your expectations for early education.",
+      "weighting": 0,
+      "rowSpan": 0,
+      "_id": {
+        "$oid": "67a14d9370eb69e19fc596e6"
+      }
+    }
+  ],
+  "createdBy": {
+    "$oid": "679d27735dca9d49586f4d4c"
+  },
+  "isTemplate": false,
+  "createdAt": {
+    "$date": "2025-02-03T23:13:23.082Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T00:58:59.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a4dd977fe387bc6db6838d"
+  },
+  "title": "Ian",
+  "createdBy": {
+    "$oid": "6779933183a83df7ead3ed90"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-06T16:04:39.145Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T16:04:39.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a4df3a7fe387bc6db68580"
+  },
+  "title": "Tonks 4",
+  "createdBy": {
+    "$oid": "6779933183a83df7ead3ed90"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-06T16:11:38.790Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T16:11:38.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a4f0a9ac41b77873f32168"
+  },
+  "title": "sdsd",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-06T17:26:01.287Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T17:26:01.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a4f0eeac41b77873f32ec4"
+  },
+  "title": "dsdsd",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-06T17:27:10.138Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T17:27:10.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a4fa6eac41b77873f34ffe"
+  },
+  "title": "dsdsd",
+  "createdBy": {
+    "$oid": "67a4f7ffac41b77873f34cec"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-06T18:07:42.256Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T18:07:42.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a653c54aca25e0588bfbec"
+  },
+  "title": "SDSD",
+  "quickViewScorecard": [
+    {
+      "key": 1,
+      "category": "DSD",
+      "criteria": "SDSD",
+      "weighting": 0,
+      "_id": {
+        "$oid": "67a653c54aca25e0588bfbed"
+      }
+    }
+  ],
+  "inDepthScorecard": [
+    {
+      "key": 1,
+      "category": "DSD",
+      "criteria": "SDS",
+      "weighting": 0,
+      "rowSpan": 2,
+      "_id": {
+        "$oid": "67a653c54aca25e0588bfbee"
+      }
+    },
+    {
+      "key": 2,
+      "category": "DSD",
+      "criteria": "DSDS",
+      "weighting": 0,
+      "rowSpan": 0,
+      "_id": {
+        "$oid": "67a653c54aca25e0588bfbef"
+      }
+    }
+  ],
+  "createdBy": {
+    "$oid": "679d27735dca9d49586f4d4c"
+  },
+  "isTemplate": false,
+  "createdAt": {
+    "$date": "2025-02-07T18:41:09.661Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T18:41:09.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a66938a28c89384a8a9841"
+  },
+  "title": "Tonks 5",
+  "createdBy": {
+    "$oid": "6779933183a83df7ead3ed90"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-07T20:12:40.443Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:12:40.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a6757b87e00ffcac9b4521"
+  },
+  "title": "sss",
+  "createdBy": {
+    "$oid": "67a51b94a553187acf9506b0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-07T21:04:59.333Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T21:04:59.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a675ed87e00ffcac9b4900"
+  },
+  "title": "dd",
+  "createdBy": {
+    "$oid": "67a51b94a553187acf9506b0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-07T21:06:53.357Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T21:06:53.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a6762587e00ffcac9b5754"
+  },
+  "title": "New Scorecard",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-07T21:07:49.886Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T21:07:49.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a6766687e00ffcac9b7401"
+  },
+  "title": "new link",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-07T21:08:54.952Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T21:08:54.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a679ff182c18f85091e549"
+  },
+  "title": "new scorecard",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-07T21:24:15.195Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T21:24:15.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a67a3a182c18f85091f4b0"
+  },
+  "title": "another",
+  "createdBy": {
+    "$oid": "675c13b6f4d28932df4ca7d0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-07T21:25:14.474Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T21:25:14.474Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a67afa182c18f85091f4f9"
+  },
+  "title": "new scorecard",
+  "createdBy": {
+    "$oid": "67a6773287e00ffcac9b8544"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-07T21:28:26.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T21:28:26.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a67bcd182c18f85091f7e0"
+  },
+  "title": "new blank",
+  "createdBy": {
+    "$oid": "67a6773287e00ffcac9b8544"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-07T21:31:57.330Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T21:31:57.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a67e67182c18f85091f99d"
+  },
+  "title": "new scorecard",
+  "createdBy": {
+    "$oid": "67a67e3d182c18f85091f8a0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-07T21:43:03.191Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T21:43:03.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a68626fe6e060471b515c7"
+  },
+  "title": "ssdaddd",
+  "createdBy": {
+    "$oid": "67a51b94a553187acf9506b0"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-07T22:16:06.213Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T22:16:06.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a68797fe6e060471b515fb"
+  },
+  "title": "dsdsd",
+  "createdBy": {
+    "$oid": "67a6769087e00ffcac9b825a"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-07T22:22:15.709Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T22:22:15.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aa3b44786b7e18d1c9fb2e"
+  },
+  "title": "Blank",
+  "createdBy": {
+    "$oid": "67aa35f3786b7e18d1c9d915"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-10T17:45:40.355Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T17:45:40.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aa3b9a786b7e18d1ca01fb"
+  },
+  "title": "blank multi",
+  "createdBy": {
+    "$oid": "67aa35f3786b7e18d1c9d915"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-10T17:47:06.986Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T17:47:06.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aa3c27786b7e18d1ca08dc"
+  },
+  "title": "in depth blank",
+  "createdBy": {
+    "$oid": "67aa35f3786b7e18d1c9d915"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-10T17:49:27.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T17:49:27.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aa3c6e786b7e18d1ca0f92"
+  },
+  "title": "in depth multi user blank",
+  "createdBy": {
+    "$oid": "67aa35f3786b7e18d1c9d915"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-10T17:50:38.866Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T17:50:38.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aa5e2c65a4695dd6f694a7"
+  },
+  "title": "Blank Quick view",
+  "createdBy": {
+    "$oid": "67aa5463f5f38fa1c696d162"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-10T20:14:36.554Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T20:14:36.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aa5ec165a4695dd6f69980"
+  },
+  "title": "Blank Quick view multi users",
+  "createdBy": {
+    "$oid": "67aa5463f5f38fa1c696d162"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-10T20:17:05.274Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T20:17:05.274Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aa60e065a4695dd6f69e79"
+  },
+  "title": "Blank In depth view",
+  "createdBy": {
+    "$oid": "67aa5463f5f38fa1c696d162"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-10T20:26:08.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T20:26:08.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aa618a65a4695dd6f6a352"
+  },
+  "title": "Blank In depth Multi users scorecard",
+  "createdBy": {
+    "$oid": "67aa5463f5f38fa1c696d162"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-10T20:28:58.359Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T20:28:58.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b7bcc9205bd59a908a3786"
+  },
+  "title": "Test 123",
+  "createdBy": {
+    "$oid": "67b7b773205bd59a908a31ae"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-20T23:37:45.528Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-20T23:37:45.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b7bd44205bd59a908a3976"
+  },
+  "title": "Test 123",
+  "createdBy": {
+    "$oid": "67b7b773205bd59a908a31ae"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-20T23:39:48.308Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-20T23:39:48.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9120a289a7b648bb0be48"
+  },
+  "title": "blank",
+  "createdBy": {
+    "$oid": "67b91156289a7b648bb0bb51"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-02-21T23:53:46.485Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T23:53:46.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ca0e9d6a884e8d12dd88cb"
+  },
+  "title": "Why Scorecard Anything?",
+  "createdBy": {
+    "$oid": "67b7b773205bd59a908a31ae"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-03-06T21:07:41.964Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-06T21:07:41.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cb297090b701008af361f4"
+  },
+  "title": "ss",
+  "createdBy": {
+    "$oid": "67cb285990b701008af35ffd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-03-07T17:14:24.931Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-07T17:14:24.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cb4cfc4a3afb18d8782fc5"
+  },
+  "title": "blank Simple",
+  "createdBy": {
+    "$oid": "67cb285990b701008af35ffd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-03-07T19:46:04.533Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-07T19:46:04.533Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cb4d594a3afb18d87830c9"
+  },
+  "title": "Blank iN DEPTH",
+  "createdBy": {
+    "$oid": "67cb285990b701008af35ffd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-03-07T19:47:37.110Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-07T19:47:37.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cb4da24a3afb18d87831c8"
+  },
+  "title": "Blank in depth",
+  "createdBy": {
+    "$oid": "67cb285990b701008af35ffd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-03-07T19:48:50.482Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-07T19:48:50.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cb4e504a3afb18d87833e0"
+  },
+  "title": "Blank in depth simple",
+  "createdBy": {
+    "$oid": "67cb285990b701008af35ffd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-03-07T19:51:44.121Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-07T19:51:44.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cb4ea34a3afb18d87837c2"
+  },
+  "title": "Blank in depth multi users",
+  "createdBy": {
+    "$oid": "67cb285990b701008af35ffd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-03-07T19:53:07.996Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-07T19:53:07.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cb4ee34a3afb18d87839bb"
+  },
+  "title": "Blank multi user indepth",
+  "createdBy": {
+    "$oid": "67cb285990b701008af35ffd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-03-07T19:54:11.356Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-07T19:54:11.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d8917f617bba988b4c631d"
+  },
+  "title": "Blank quick view single user",
+  "createdBy": {
+    "$oid": "67d88ca6617bba988b4c54fd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-03-17T21:17:51.984Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T21:17:51.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d89209617bba988b4c6703"
+  },
+  "title": "Blank quick view multi user",
+  "createdBy": {
+    "$oid": "67d88ca6617bba988b4c54fd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-03-17T21:20:09.365Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T21:20:09.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d8929b617bba988b4c6916"
+  },
+  "title": "Blank in depth single user",
+  "createdBy": {
+    "$oid": "67d88ca6617bba988b4c54fd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-03-17T21:22:35.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T21:22:35.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d892f0617bba988b4c6b0b"
+  },
+  "title": "Blank in depth multi user",
+  "createdBy": {
+    "$oid": "67d88ca6617bba988b4c54fd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-03-17T21:24:00.508Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T21:24:00.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6806c33750de23d28da5cc7f"
+  },
+  "title": "dsds",
+  "createdBy": {
+    "$oid": "6806c13450de23d28da5c89a"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-04-21T22:14:15.722Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-21T22:14:15.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68194fce6582ec646f9f4701"
+  },
+  "title": "blank",
+  "createdBy": {
+    "$oid": "6819483b6582ec646f9f4211"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-05-05T23:54:54.792Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T23:54:54.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681957200bb43ea27107a876"
+  },
+  "title": "blanke",
+  "createdBy": {
+    "$oid": "6819483b6582ec646f9f4211"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-05-06T00:26:08.087Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T00:26:08.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682372c846e30b33baf69713"
+  },
+  "title": "blank",
+  "createdBy": {
+    "$oid": "682370a546e30b33baf6932e"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-05-13T16:26:48.659Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-13T16:26:48.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6823731a46e30b33baf69ae7"
+  },
+  "title": "blank new",
+  "createdBy": {
+    "$oid": "682370a546e30b33baf6932e"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-05-13T16:28:10.119Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-13T16:28:10.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6823744646e30b33baf69dcb"
+  },
+  "title": "blank new 1",
+  "createdBy": {
+    "$oid": "682370a546e30b33baf6932e"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-05-13T16:33:10.361Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-13T16:33:10.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6823763b46e30b33baf6a0b4"
+  },
+  "title": "blank single",
+  "createdBy": {
+    "$oid": "682370a546e30b33baf6932e"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-05-13T16:41:31.885Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-13T16:41:31.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6823789346e30b33baf6a39a"
+  },
+  "title": "blank multi",
+  "createdBy": {
+    "$oid": "682370a546e30b33baf6932e"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-05-13T16:51:31.920Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-13T16:51:31.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6840ab88997c0a247a1e5275"
+  },
+  "title": "blank single",
+  "createdBy": {
+    "$oid": "6840a7ee997c0a247a1e4b2e"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-06-04T20:24:40.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-04T20:24:40.046Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6840ac16997c0a247a1e567e"
+  },
+  "title": "Blank in depth single",
+  "createdBy": {
+    "$oid": "6840a7ee997c0a247a1e4b2e"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-06-04T20:27:02.561Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-04T20:27:02.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6840abb2997c0a247a1e5468"
+  },
+  "title": "Blank Multi user",
+  "createdBy": {
+    "$oid": "6840a7ee997c0a247a1e4b2e"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-06-04T20:25:22.358Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-04T20:25:22.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6840ac82997c0a247a1e5884"
+  },
+  "title": "blank in depth multi",
+  "createdBy": {
+    "$oid": "6840a7ee997c0a247a1e4b2e"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-06-04T20:28:50.653Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-04T20:28:50.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6840b1f7997c0a247a1e9f88"
+  },
+  "title": "bvbvb",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-06-04T20:52:07.349Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-04T20:52:07.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6840b1cb997c0a247a1e9408"
+  },
+  "title": "blank",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-06-04T20:51:23.847Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-04T20:51:23.847Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6840b231997c0a247a1eab20"
+  },
+  "title": "dsdsd",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-06-04T20:53:05.252Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-04T20:53:05.252Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6840b268997c0a247a1eb6ac"
+  },
+  "title": "dsdsds",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-06-04T20:54:00.975Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-04T20:54:00.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686700d2f6b12db97bc765da"
+  },
+  "title": "hghg",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-07-03T22:14:42.826Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-03T22:14:42.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688b9e87292539365636f8dd"
+  },
+  "title": "dsds",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-07-31T16:49:11.297Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-31T16:49:11.297Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b79119c880ec90e1f6130"
+  },
+  "title": "THIS IS TIOTL;E",
+  "quickViewScorecard": [
+    {
+      "key": 2,
+      "category": "FDFDFD",
+      "criteria": "FDFDF",
+      "weighting": 0,
+      "_id": {
+        "$oid": "689b79119c880ec90e1f6131"
+      }
+    },
+    {
+      "key": 1,
+      "category": "FDFDF",
+      "criteria": "DFDFDF",
+      "weighting": 0,
+      "_id": {
+        "$oid": "689b79119c880ec90e1f6132"
+      }
+    }
+  ],
+  "inDepthScorecard": [],
+  "createdBy": {
+    "$oid": "679d27735dca9d49586f4d4c"
+  },
+  "isTemplate": false,
+  "createdAt": {
+    "$date": "2025-08-12T17:25:37.143Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T17:25:37.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b7a009c880ec90e1f618d"
+  },
+  "title": "THIS IS MY DESCISION",
+  "quickViewScorecard": [
+    {
+      "key": 2,
+      "category": "Suscipit eos hic ut ",
+      "criteria": "Aut dolor nemo est m",
+      "weighting": 0,
+      "_id": {
+        "$oid": "689b7a009c880ec90e1f618e"
+      }
+    },
+    {
+      "key": 1,
+      "category": "Eum dolorum dolorem ",
+      "criteria": "Odio enim sit molli",
+      "weighting": 0,
+      "_id": {
+        "$oid": "689b7a009c880ec90e1f618f"
+      }
+    }
+  ],
+  "inDepthScorecard": [],
+  "createdBy": {
+    "$oid": "679d27735dca9d49586f4d4c"
+  },
+  "isTemplate": false,
+  "createdAt": {
+    "$date": "2025-08-12T17:29:36.587Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T17:29:36.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689cb7c706ef085cf5a8ee70"
+  },
+  "title": "this is my test scorecard",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-13T16:05:27.096Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T16:05:27.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689cb80506ef085cf5a8fdb5"
+  },
+  "title": "max testing",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-13T16:06:29.327Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T16:06:29.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689cb89406ef085cf5a90d0a"
+  },
+  "title": "max test",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-13T16:08:52.915Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T16:08:52.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689db387e56482a452976c1d"
+  },
+  "title": "this is blank",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-14T09:59:35.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-14T09:59:35.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689dc4afe56482a45297c828"
+  },
+  "title": "this my blank",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-14T11:12:47.684Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-14T11:12:47.684Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689dd58a3275fbb217caeb35"
+  },
+  "title": "blank single",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-14T12:24:42.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-14T12:24:42.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689ddbf43049b6a466c35408"
+  },
+  "title": "blank multi test",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-14T12:52:04.077Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-14T12:52:04.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689ddc4ebf4f75c8053d2fc6"
+  },
+  "title": "blnak indepth single",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-14T12:53:34.363Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-14T12:53:34.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689ddc76bf4f75c8053d3f14"
+  },
+  "title": "blank multi indepth",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-14T12:54:14.843Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-14T12:54:14.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689dde0bbf4f75c8053db952"
+  },
+  "title": "fdfdfdfdf",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-14T13:00:59.960Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-14T13:00:59.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a737e8808db366bfe16bf3"
+  },
+  "title": "Live testing Scorecard For Ian",
+  "createdBy": {
+    "$oid": "68a73680808db366bfe169fd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-21T15:14:48.731Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T15:14:48.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a73915808db366bfe16cf4"
+  },
+  "title": "Live Testing In Depth Custom",
+  "createdBy": {
+    "$oid": "68a73680808db366bfe169fd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-21T15:19:49.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T15:19:49.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a73a06808db366bfe16ef4"
+  },
+  "title": "Live Scorecard In Depth",
+  "createdBy": {
+    "$oid": "68a73680808db366bfe169fd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-21T15:23:50.800Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T15:23:50.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a73aee808db366bfe170f4"
+  },
+  "title": "In Depth Scorecard Testing",
+  "createdBy": {
+    "$oid": "68a73680808db366bfe169fd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-21T15:27:42.268Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T15:27:42.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a73b95808db366bfe171fe"
+  },
+  "title": "In Depth Testing",
+  "createdBy": {
+    "$oid": "68a73680808db366bfe169fd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-21T15:30:29.684Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T15:30:29.684Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a73d12808db366bfe172fa"
+  },
+  "title": "2",
+  "createdBy": {
+    "$oid": "68a73680808db366bfe169fd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-21T15:36:50.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T15:36:50.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a73d33808db366bfe173f7"
+  },
+  "title": "5",
+  "createdBy": {
+    "$oid": "68a73680808db366bfe169fd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-21T15:37:23.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T15:37:23.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a73db0808db366bfe175f3"
+  },
+  "title": "6",
+  "createdBy": {
+    "$oid": "68a73680808db366bfe169fd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-21T15:39:28.328Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T15:39:28.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a73e32808db366bfe177e0"
+  },
+  "title": "7",
+  "createdBy": {
+    "$oid": "68a73680808db366bfe169fd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-21T15:41:38.317Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T15:41:38.317Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a73e69808db366bfe179cd"
+  },
+  "title": "80",
+  "createdBy": {
+    "$oid": "68a73680808db366bfe169fd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-21T15:42:33.490Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T15:42:33.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a74065808db366bfe17bc5"
+  },
+  "title": "801",
+  "createdBy": {
+    "$oid": "68a73680808db366bfe169fd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-21T15:51:01.261Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T15:51:01.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a740c6808db366bfe17dbd"
+  },
+  "title": "807",
+  "createdBy": {
+    "$oid": "68a73680808db366bfe169fd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-21T15:52:38.416Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T15:52:38.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a740f3808db366bfe17fa9"
+  },
+  "title": "907",
+  "createdBy": {
+    "$oid": "68a73680808db366bfe169fd"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-21T15:53:23.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T15:53:23.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a8687f9ec964a23abb7fa7"
+  },
+  "title": "Testing",
+  "createdBy": {
+    "$oid": "68a8651e9ec964a23abb7ea7"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-22T12:54:23.694Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T12:54:23.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a86e659ec964a23abb80aa"
+  },
+  "title": "Test 2",
+  "createdBy": {
+    "$oid": "68a8651e9ec964a23abb7ea7"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-22T13:19:33.633Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T13:19:33.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a87dda9ec964a23abb867b"
+  },
+  "title": "asfas",
+  "createdBy": {
+    "$oid": "68a8651e9ec964a23abb7ea7"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-22T14:25:30.868Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T14:25:30.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a8a0c09ec964a23abb9218"
+  },
+  "title": "asfsaf",
+  "createdBy": {
+    "$oid": "68a8651e9ec964a23abb7ea7"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-22T16:54:24.081Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T16:54:24.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68aed986a61797b698fe5faf"
+  },
+  "title": "sasasa",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-27T10:10:14.374Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T10:10:14.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68aef30db57cce26470b2dca"
+  },
+  "title": "This is title",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-27T11:59:09.973Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T11:59:09.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68aef34eb57cce26470b3d0e"
+  },
+  "title": "This is title",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-27T12:00:14.738Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T12:00:14.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68aef4045b1b65bd095ead08"
+  },
+  "title": "this is blank title",
+  "description": "this is blank title description",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-27T12:03:16.366Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T12:03:16.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68af056c3ea3ac7ad9852b07"
+  },
+  "title": "fdfd",
+  "description": "fdfd",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-27T13:17:32.787Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T13:17:32.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68af06243ea3ac7ad985499e"
+  },
+  "title": "sadgw",
+  "description": "sdfg",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-27T13:20:36.023Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T13:20:36.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68af099b3ea3ac7ad98577a6"
+  },
+  "title": "fdfdf",
+  "description": "dfdfdf",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-27T13:35:23.142Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T13:35:23.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68af09d043d5700626430269"
+  },
+  "title": "fdfd",
+  "description": "fdfdf",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-27T13:36:16.449Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T13:36:16.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68af0bb243d57006264311e6"
+  },
+  "title": "ffff",
+  "description": "fffff",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-27T13:44:18.710Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T13:44:18.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68af0bd343d5700626432144"
+  },
+  "title": "hghg",
+  "description": "hghg",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-27T13:44:51.432Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T13:44:51.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68af0e3d43d5700626435ed5"
+  },
+  "title": "fdfd",
+  "description": "fdfdf",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-27T13:55:09.956Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T13:55:09.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68af260cc13e9bbb784fd898"
+  },
+  "title": "dsd",
+  "description": "sdsd",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-27T15:36:44.009Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T15:36:44.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68af262dc13e9bbb784ff71f"
+  },
+  "title": "dsd",
+  "description": "sdsdsd",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-27T15:37:17.013Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T15:37:17.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68af2b38e9080d3a689a0592"
+  },
+  "title": "q",
+  "description": "q",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-27T15:58:48.047Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T15:58:48.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68af2b8fe9080d3a689a336c"
+  },
+  "title": "seew",
+  "description": "ewewe",
+  "createdBy": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "isTemplate": true,
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdAt": {
+    "$date": "2025-08-27T16:00:15.553Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T16:00:15.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c00075fb355c2c60acc5dc"
+  },
+  "title": "Decide to move to a different city or state",
+  "description": "",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdBy": {
+    "$oid": "68aefcac3ea3ac7ad9851b77"
+  },
+  "isTemplate": false,
+  "createdAt": {
+    "$date": "2025-09-09T10:24:53.482Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-09T10:24:53.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c000e7fb355c2c60acc5df"
+  },
+  "title": "Decide to move to a different country",
+  "description": "",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdBy": {
+    "$oid": "68aefcac3ea3ac7ad9851b77"
+  },
+  "isTemplate": false,
+  "createdAt": {
+    "$date": "2025-09-09T10:26:47.696Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-09T10:26:47.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c000f7fb355c2c60acc5e2"
+  },
+  "title": "Decide where to live in retirement",
+  "description": "",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdBy": {
+    "$oid": "68aefcac3ea3ac7ad9851b77"
+  },
+  "isTemplate": false,
+  "createdAt": {
+    "$date": "2025-09-09T10:27:03.672Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-09T10:27:03.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c0014bfb355c2c60acc5e5"
+  },
+  "title": "Decide where to go on vacation",
+  "description": "",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdBy": {
+    "$oid": "68aefcac3ea3ac7ad9851b77"
+  },
+  "isTemplate": false,
+  "createdAt": {
+    "$date": "2025-09-09T10:28:27.752Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-09T10:28:27.752Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c00158fb355c2c60acc5e8"
+  },
+  "title": "Decide what to do while on vacation",
+  "description": "",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdBy": {
+    "$oid": "68aefcac3ea3ac7ad9851b77"
+  },
+  "isTemplate": false,
+  "createdAt": {
+    "$date": "2025-09-09T10:28:40.957Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-09T10:28:40.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c00167fb355c2c60acc5eb"
+  },
+  "title": "Decide which language to learn",
+  "description": "",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdBy": {
+    "$oid": "68aefcac3ea3ac7ad9851b77"
+  },
+  "isTemplate": false,
+  "createdAt": {
+    "$date": "2025-09-09T10:28:55.387Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-09T10:28:55.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c00176fb355c2c60acc5ee"
+  },
+  "title": "Decide whether to volunteer abroad or engage in humanitarian work",
+  "description": "",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdBy": {
+    "$oid": "68aefcac3ea3ac7ad9851b77"
+  },
+  "isTemplate": false,
+  "createdAt": {
+    "$date": "2025-09-09T10:29:10.129Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-09T10:29:10.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c00183fb355c2c60acc5f1"
+  },
+  "title": "Decide which hotel to stay at",
+  "description": "",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdBy": {
+    "$oid": "68aefcac3ea3ac7ad9851b77"
+  },
+  "isTemplate": false,
+  "createdAt": {
+    "$date": "2025-09-09T10:29:23.137Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-09T10:29:23.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c00192fb355c2c60acc5f4"
+  },
+  "title": "Decide which rental car company to choose",
+  "description": "",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdBy": {
+    "$oid": "68aefcac3ea3ac7ad9851b77"
+  },
+  "isTemplate": false,
+  "createdAt": {
+    "$date": "2025-09-09T10:29:38.253Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-09T10:29:38.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c0019ffb355c2c60acc5f7"
+  },
+  "title": "Decide whether to move closer to family",
+  "description": "",
+  "quickViewScorecard": [],
+  "inDepthScorecard": [],
+  "createdBy": {
+    "$oid": "68aefcac3ea3ac7ad9851b77"
+  },
+  "isTemplate": false,
+  "createdAt": {
+    "$date": "2025-09-09T10:29:51.408Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-09T10:29:51.408Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dynamic-table .ant-table-body {
+  /* Default height */
+  max-height: 40vh;
+
+  /* Adjust height for larger screens */
+  @media (max-width: 1650px) {
+    max-height: 68vh;
+  }
+
+  @media (min-width: 1650px) {
+    max-height: 80vh;
+  }
+}
+
+.custom-row-height td {
+  height: 10px !important; /* Adjust height as needed */
+  padding: 4px 8px !important;
+}
+
+.card-container {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-container:hover {
+  transform: translateY(-10px) scale(1.05);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+.ant-modal-title {
+  font-size: 25px !important;
+  font-weight: 700 !important;
+}
+
+.admin-scorecard .ant-card-head-title {
+  white-space: unset;
+}
+
+.custom-quill .ql-editor {
+  min-height: 250px;
+}

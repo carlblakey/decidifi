@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6876b6a8c4097d07c8467826"
+  },
+  "userId": {
+    "$oid": "6876b2e9486b36b8dd5a411e"
+  },
+  "question1": 8,
+  "question2": 9,
+  "question3": 10,
+  "question4": 7,
+  "question5": 9,
+  "createdAt": {
+    "$date": "2025-07-15T20:14:32.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6876b8100dd3203b9cc84b35"
+  },
+  "userId": {
+    "$oid": "67cf45851f88cbe542d1f464"
+  },
+  "question1": 8,
+  "question2": 9,
+  "question3": 10,
+  "question4": 7,
+  "question5": 9,
+  "createdAt": {
+    "$date": "2025-07-15T20:20:33.000Z"
+  },
+  "__v": 0
+}]

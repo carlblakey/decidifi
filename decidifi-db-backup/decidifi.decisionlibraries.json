@@ -1,0 +1,900 @@
+[{
+  "_id": {
+    "$oid": "675afbf2f8c1e38fe57df26a"
+  },
+  "title": "Community",
+  "parentCategory": "Life Decisions",
+  "description": "Decide how to give back and get involved.",
+  "image": "../assets/images/life-community-001.svg",
+  "decisions": [
+    {
+      "$oid": "675ae4528811b601343a9457"
+    },
+    {
+      "$oid": "675ae4528811b601343a9459"
+    },
+    {
+      "$oid": "675ae4538811b601343a945b"
+    },
+    {
+      "$oid": "675ae4538811b601343a945d"
+    },
+    {
+      "$oid": "675ae4548811b601343a945f"
+    },
+    {
+      "$oid": "675ae4558811b601343a9461"
+    },
+    {
+      "$oid": "675ae4558811b601343a9463"
+    },
+    {
+      "$oid": "675ae4558811b601343a9465"
+    },
+    {
+      "$oid": "675ae4568811b601343a9467"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675afbf2f8c1e38fe57df26c"
+  },
+  "title": "Family",
+  "parentCategory": "Personal Decisions",
+  "description": "Tackle important family matters with confidence.",
+  "image": "../assets/images/personal-family-001.svg",
+  "decisions": [
+    {
+      "$oid": "675ae3fe8811b601343a9302"
+    },
+    {
+      "$oid": "675ae3fe8811b601343a9304"
+    },
+    {
+      "$oid": "675ae3ff8811b601343a9306"
+    },
+    {
+      "$oid": "675ae3ff8811b601343a9308"
+    },
+    {
+      "$oid": "675ae4008811b601343a930a"
+    },
+    {
+      "$oid": "675ae4008811b601343a930c"
+    },
+    {
+      "$oid": "675ae4018811b601343a930e"
+    },
+    {
+      "$oid": "675ae4018811b601343a9310"
+    },
+    {
+      "$oid": "675ae4028811b601343a9312"
+    },
+    {
+      "$oid": "675ae4038811b601343a9314"
+    },
+    {
+      "$oid": "675ae4038811b601343a9316"
+    },
+    {
+      "$oid": "675ae4048811b601343a9318"
+    },
+    {
+      "$oid": "675ae4048811b601343a931a"
+    },
+    {
+      "$oid": "675ae4058811b601343a931c"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675afbf2f8c1e38fe57df26e"
+  },
+  "title": "Purchasing",
+  "parentCategory": "Life Decisions",
+  "description": "Make smarter buying decisions for personal or business needs.",
+  "image": "../assets/images/life-purchasing-001.svg",
+  "decisions": [
+    {
+      "$oid": "675ae4618811b601343a9495"
+    },
+    {
+      "$oid": "675ae4628811b601343a9497"
+    },
+    {
+      "$oid": "675ae4628811b601343a9499"
+    },
+    {
+      "$oid": "675ae4638811b601343a949b"
+    },
+    {
+      "$oid": "675ae4638811b601343a949d"
+    },
+    {
+      "$oid": "675ae4648811b601343a949f"
+    },
+    {
+      "$oid": "675ae4648811b601343a94a1"
+    },
+    {
+      "$oid": "675ae4658811b601343a94a3"
+    },
+    {
+      "$oid": "675ae4658811b601343a94a5"
+    },
+    {
+      "$oid": "675ae4658811b601343a94a7"
+    },
+    {
+      "$oid": "675ae4668811b601343a94a9"
+    },
+    {
+      "$oid": "675ae4668811b601343a94ab"
+    },
+    {
+      "$oid": "675ae4678811b601343a94ad"
+    },
+    {
+      "$oid": "675ae4678811b601343a94af"
+    },
+    {
+      "$oid": "675ae4688811b601343a94b1"
+    },
+    {
+      "$oid": "675ae4688811b601343a94b3"
+    },
+    {
+      "$oid": "675ae4698811b601343a94b5"
+    },
+    {
+      "$oid": "675ae4698811b601343a94b7"
+    },
+    {
+      "$oid": "675ae46a8811b601343a94b9"
+    },
+    {
+      "$oid": "675ae46a8811b601343a94bb"
+    },
+    {
+      "$oid": "675ae46a8811b601343a94bd"
+    },
+    {
+      "$oid": "675ae46b8811b601343a94bf"
+    },
+    {
+      "$oid": "675ae46c8811b601343a94c1"
+    },
+    {
+      "$oid": "675ae46c8811b601343a94c3"
+    },
+    {
+      "$oid": "675ae46d8811b601343a94c5"
+    },
+    {
+      "$oid": "675ae46d8811b601343a94c7"
+    },
+    {
+      "$oid": "675ae46d8811b601343a94c9"
+    },
+    {
+      "$oid": "675ae46e8811b601343a94cb"
+    },
+    {
+      "$oid": "675ae46e8811b601343a94cd"
+    },
+    {
+      "$oid": "675ae46f8811b601343a94cf"
+    },
+    {
+      "$oid": "675ae4708811b601343a94d1"
+    },
+    {
+      "$oid": "675ae4708811b601343a94d3"
+    },
+    {
+      "$oid": "675ae4718811b601343a94d5"
+    },
+    {
+      "$oid": "675ae4718811b601343a94d7"
+    },
+    {
+      "$oid": "675ae4718811b601343a94d9"
+    },
+    {
+      "$oid": "675ae4728811b601343a94db"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675afbf2f8c1e38fe57df270"
+  },
+  "title": "Advisory",
+  "parentCategory": "Professional Decisions",
+  "description": "Select the best experts, consultants, or mentors.",
+  "image": "../assets/images/professional-advisory-001.svg",
+  "decisions": [
+    {
+      "$oid": "675ae43b8811b601343a93fd"
+    },
+    {
+      "$oid": "675ae43c8811b601343a93ff"
+    },
+    {
+      "$oid": "675ae43c8811b601343a9401"
+    },
+    {
+      "$oid": "675ae43d8811b601343a9403"
+    },
+    {
+      "$oid": "675ae43d8811b601343a9405"
+    },
+    {
+      "$oid": "675ae43e8811b601343a9407"
+    },
+    {
+      "$oid": "675ae43e8811b601343a9409"
+    },
+    {
+      "$oid": "675ae43f8811b601343a940b"
+    },
+    {
+      "$oid": "675ae43f8811b601343a940d"
+    },
+    {
+      "$oid": "675ae43f8811b601343a940f"
+    },
+    {
+      "$oid": "675ae4408811b601343a9411"
+    },
+    {
+      "$oid": "675ae4418811b601343a9413"
+    },
+    {
+      "$oid": "675ae4418811b601343a9415"
+    },
+    {
+      "$oid": "675ae4418811b601343a9417"
+    },
+    {
+      "$oid": "675ae4428811b601343a9419"
+    },
+    {
+      "$oid": "675ae4438811b601343a941b"
+    },
+    {
+      "$oid": "675ae4438811b601343a941d"
+    },
+    {
+      "$oid": "675ae4438811b601343a941f"
+    },
+    {
+      "$oid": "675ae4448811b601343a9421"
+    },
+    {
+      "$oid": "675ae4448811b601343a9423"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675afbf2f8c1e38fe57df274"
+  },
+  "title": "Education",
+  "parentCategory": "Professional Decisions",
+  "description": "Choose schools, courses, or learning paths.",
+  "image": "../assets/images/professional-education-001.svg",
+  "decisions": [
+    {
+      "$oid": "675ae4458811b601343a9425"
+    },
+    {
+      "$oid": "675ae4458811b601343a9427"
+    },
+    {
+      "$oid": "675ae4468811b601343a9429"
+    },
+    {
+      "$oid": "675ae4468811b601343a942b"
+    },
+    {
+      "$oid": "675ae4468811b601343a942d"
+    },
+    {
+      "$oid": "675ae4478811b601343a942f"
+    },
+    {
+      "$oid": "675ae4478811b601343a9431"
+    },
+    {
+      "$oid": "675ae4488811b601343a9433"
+    },
+    {
+      "$oid": "675ae4488811b601343a9435"
+    },
+    {
+      "$oid": "675ae4498811b601343a9437"
+    },
+    {
+      "$oid": "675ae4498811b601343a9439"
+    },
+    {
+      "$oid": "675ae4498811b601343a943b"
+    },
+    {
+      "$oid": "675ae44a8811b601343a943d"
+    },
+    {
+      "$oid": "675ae44a8811b601343a943f"
+    },
+    {
+      "$oid": "675ae44b8811b601343a9441"
+    },
+    {
+      "$oid": "675ae44c8811b601343a9443"
+    },
+    {
+      "$oid": "675ae44d8811b601343a9445"
+    },
+    {
+      "$oid": "675ae44d8811b601343a9447"
+    },
+    {
+      "$oid": "675ae44e8811b601343a9449"
+    },
+    {
+      "$oid": "675ae44e8811b601343a944b"
+    },
+    {
+      "$oid": "675ae44f8811b601343a944d"
+    },
+    {
+      "$oid": "675ae4508811b601343a944f"
+    },
+    {
+      "$oid": "675ae4508811b601343a9451"
+    },
+    {
+      "$oid": "675ae4518811b601343a9453"
+    },
+    {
+      "$oid": "675ae4518811b601343a9455"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675afbf2f8c1e38fe57df276"
+  },
+  "title": "Career",
+  "parentCategory": "Professional Decisions",
+  "description": "Navigate job offers and career shifts.",
+  "image": "../assets/images/professional-career-001.svg",
+  "decisions": [
+    {
+      "$oid": "675ae4188811b601343a936a"
+    },
+    {
+      "$oid": "675ae4188811b601343a936c"
+    },
+    {
+      "$oid": "675ae4198811b601343a936e"
+    },
+    {
+      "$oid": "675ae4198811b601343a9370"
+    },
+    {
+      "$oid": "675ae41a8811b601343a9372"
+    },
+    {
+      "$oid": "675ae41a8811b601343a9374"
+    },
+    {
+      "$oid": "675ae41b8811b601343a9376"
+    },
+    {
+      "$oid": "675ae41b8811b601343a9378"
+    },
+    {
+      "$oid": "675ae41b8811b601343a937a"
+    },
+    {
+      "$oid": "675ae41c8811b601343a937c"
+    },
+    {
+      "$oid": "675ae41c8811b601343a937e"
+    },
+    {
+      "$oid": "675ae41d8811b601343a9381"
+    },
+    {
+      "$oid": "675ae41d8811b601343a9383"
+    },
+    {
+      "$oid": "675ae41e8811b601343a9385"
+    },
+    {
+      "$oid": "675ae41e8811b601343a9387"
+    },
+    {
+      "$oid": "675ae41f8811b601343a9389"
+    },
+    {
+      "$oid": "675ae4208811b601343a938b"
+    },
+    {
+      "$oid": "675ae4208811b601343a938d"
+    },
+    {
+      "$oid": "675ae4208811b601343a938f"
+    },
+    {
+      "$oid": "675ae4218811b601343a9391"
+    },
+    {
+      "$oid": "675ae4218811b601343a9393"
+    },
+    {
+      "$oid": "675ae4228811b601343a9395"
+    },
+    {
+      "$oid": "675ae4228811b601343a9397"
+    },
+    {
+      "$oid": "675ae4238811b601343a9399"
+    },
+    {
+      "$oid": "675ae4238811b601343a939b"
+    },
+    {
+      "$oid": "675ae4248811b601343a939d"
+    },
+    {
+      "$oid": "675ae4248811b601343a939f"
+    },
+    {
+      "$oid": "675ae4258811b601343a93a1"
+    },
+    {
+      "$oid": "675ae4258811b601343a93a3"
+    },
+    {
+      "$oid": "675ae4268811b601343a93a5"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675afbf2f8c1e38fe57df278"
+  },
+  "title": "Miscellaneous",
+  "parentCategory": "Life Decisions",
+  "description": "Simplify decisions that don’t neatly fit into other categories.",
+  "image": "../assets/images/life-miscellaneous-001.svg",
+  "decisions": [
+    {
+      "$oid": "675ae4738811b601343a94dd"
+    },
+    {
+      "$oid": "675ae4738811b601343a94df"
+    },
+    {
+      "$oid": "675ae4738811b601343a94e1"
+    },
+    {
+      "$oid": "675ae4748811b601343a94e3"
+    },
+    {
+      "$oid": "675ae4748811b601343a94e5"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675afbf2f8c1e38fe57df27a"
+  },
+  "title": "Real Estate",
+  "parentCategory": "Life Decisions",
+  "description": "Simplify decisions about buying, selling, or investing in property.",
+  "image": "../assets/images/life-real-estate-001.svg",
+  "decisions": [
+    {
+      "$oid": "675ae4578811b601343a9469"
+    },
+    {
+      "$oid": "675ae4588811b601343a946b"
+    },
+    {
+      "$oid": "675ae4588811b601343a946d"
+    },
+    {
+      "$oid": "675ae4598811b601343a946f"
+    },
+    {
+      "$oid": "675ae4598811b601343a9471"
+    },
+    {
+      "$oid": "675ae45a8811b601343a9473"
+    },
+    {
+      "$oid": "675ae45a8811b601343a9475"
+    },
+    {
+      "$oid": "675ae45b8811b601343a9477"
+    },
+    {
+      "$oid": "675ae45b8811b601343a9479"
+    },
+    {
+      "$oid": "675ae45b8811b601343a947b"
+    },
+    {
+      "$oid": "675ae45c8811b601343a947d"
+    },
+    {
+      "$oid": "675ae45c8811b601343a947f"
+    },
+    {
+      "$oid": "675ae45d8811b601343a9481"
+    },
+    {
+      "$oid": "675ae45d8811b601343a9483"
+    },
+    {
+      "$oid": "675ae45e8811b601343a9485"
+    },
+    {
+      "$oid": "675ae45e8811b601343a9487"
+    },
+    {
+      "$oid": "675ae45f8811b601343a9489"
+    },
+    {
+      "$oid": "675ae45f8811b601343a948b"
+    },
+    {
+      "$oid": "675ae4608811b601343a948d"
+    },
+    {
+      "$oid": "675ae4608811b601343a948f"
+    },
+    {
+      "$oid": "675ae4608811b601343a9491"
+    },
+    {
+      "$oid": "675ae4618811b601343a9493"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675afbf2f8c1e38fe57df27c"
+  },
+  "title": "Work",
+  "parentCategory": "Professional Decisions",
+  "description": "Make strategic decisions around team dynamics and projects.",
+  "image": "../assets/images/professional-workplace-001.svg",
+  "decisions": [
+    {
+      "$oid": "675ae4268811b601343a93a7"
+    },
+    {
+      "$oid": "675ae4278811b601343a93a9"
+    },
+    {
+      "$oid": "675ae4278811b601343a93ab"
+    },
+    {
+      "$oid": "675ae4288811b601343a93ad"
+    },
+    {
+      "$oid": "675ae4288811b601343a93af"
+    },
+    {
+      "$oid": "675ae4288811b601343a93b1"
+    },
+    {
+      "$oid": "675ae4298811b601343a93b3"
+    },
+    {
+      "$oid": "675ae4298811b601343a93b5"
+    },
+    {
+      "$oid": "675ae42a8811b601343a93b7"
+    },
+    {
+      "$oid": "675ae42a8811b601343a93b9"
+    },
+    {
+      "$oid": "675ae42b8811b601343a93bb"
+    },
+    {
+      "$oid": "675ae42b8811b601343a93bd"
+    },
+    {
+      "$oid": "675ae42c8811b601343a93bf"
+    },
+    {
+      "$oid": "675ae42c8811b601343a93c1"
+    },
+    {
+      "$oid": "675ae42d8811b601343a93c3"
+    },
+    {
+      "$oid": "675ae42d8811b601343a93c5"
+    },
+    {
+      "$oid": "675ae42d8811b601343a93c7"
+    },
+    {
+      "$oid": "675ae42e8811b601343a93c9"
+    },
+    {
+      "$oid": "675ae42e8811b601343a93cb"
+    },
+    {
+      "$oid": "675ae42f8811b601343a93cd"
+    },
+    {
+      "$oid": "675ae42f8811b601343a93cf"
+    },
+    {
+      "$oid": "675ae4308811b601343a93d1"
+    },
+    {
+      "$oid": "675ae4308811b601343a93d3"
+    },
+    {
+      "$oid": "675ae4318811b601343a93d5"
+    },
+    {
+      "$oid": "675ae4318811b601343a93d7"
+    },
+    {
+      "$oid": "675ae4328811b601343a93d9"
+    },
+    {
+      "$oid": "675ae4328811b601343a93db"
+    },
+    {
+      "$oid": "675ae4338811b601343a93dd"
+    },
+    {
+      "$oid": "675ae4338811b601343a93df"
+    },
+    {
+      "$oid": "675ae4338811b601343a93e1"
+    },
+    {
+      "$oid": "675ae4348811b601343a93e3"
+    },
+    {
+      "$oid": "675ae4348811b601343a93e5"
+    },
+    {
+      "$oid": "675ae4358811b601343a93e7"
+    },
+    {
+      "$oid": "675ae4368811b601343a93e9"
+    },
+    {
+      "$oid": "675ae4368811b601343a93eb"
+    },
+    {
+      "$oid": "675ae4368811b601343a93ed"
+    },
+    {
+      "$oid": "675ae4388811b601343a93ef"
+    },
+    {
+      "$oid": "675ae4388811b601343a93f1"
+    },
+    {
+      "$oid": "675ae4398811b601343a93f3"
+    },
+    {
+      "$oid": "675ae4398811b601343a93f5"
+    },
+    {
+      "$oid": "675ae43a8811b601343a93f7"
+    },
+    {
+      "$oid": "675ae43a8811b601343a93f9"
+    },
+    {
+      "$oid": "675ae43b8811b601343a93fb"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675afbf2f8c1e38fe57df272"
+  },
+  "title": "Health & Wellness",
+  "parentCategory": "Personal Decisions",
+  "description": "Make informed decisions about your well-being.",
+  "image": "../assets/images/personal-health-001.svg",
+  "decisions": [
+    {
+      "$oid": "675ae40c8811b601343a933a"
+    },
+    {
+      "$oid": "675ae40d8811b601343a933c"
+    },
+    {
+      "$oid": "675ae40d8811b601343a933e"
+    },
+    {
+      "$oid": "675ae40e8811b601343a9340"
+    },
+    {
+      "$oid": "675ae40e8811b601343a9342"
+    },
+    {
+      "$oid": "675ae40f8811b601343a9344"
+    },
+    {
+      "$oid": "675ae40f8811b601343a9346"
+    },
+    {
+      "$oid": "675ae4108811b601343a9348"
+    },
+    {
+      "$oid": "675ae4108811b601343a934a"
+    },
+    {
+      "$oid": "675ae4118811b601343a934c"
+    },
+    {
+      "$oid": "675ae4118811b601343a934e"
+    },
+    {
+      "$oid": "675ae4128811b601343a9350"
+    },
+    {
+      "$oid": "675ae4128811b601343a9352"
+    },
+    {
+      "$oid": "675ae4138811b601343a9354"
+    },
+    {
+      "$oid": "675ae4138811b601343a9356"
+    },
+    {
+      "$oid": "675ae4148811b601343a9358"
+    },
+    {
+      "$oid": "675ae4148811b601343a935a"
+    },
+    {
+      "$oid": "675ae4158811b601343a935c"
+    },
+    {
+      "$oid": "675ae4158811b601343a935e"
+    },
+    {
+      "$oid": "675ae4168811b601343a9360"
+    },
+    {
+      "$oid": "675ae4168811b601343a9362"
+    },
+    {
+      "$oid": "675ae4168811b601343a9364"
+    },
+    {
+      "$oid": "675ae4178811b601343a9366"
+    },
+    {
+      "$oid": "675ae4178811b601343a9368"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675afbf3f8c1e38fe57df27e"
+  },
+  "title": "Geography",
+  "parentCategory": "Personal Decisions",
+  "description": "Choose where to live, work, or travel.",
+  "image": "../assets/images/personal-geography-001.svg",
+  "decisions": [
+    {
+      "$oid": "68c00075fb355c2c60acc5dc"
+    },
+    {
+      "$oid": "68c000e7fb355c2c60acc5df"
+    },
+    {
+      "$oid": "68c000f7fb355c2c60acc5e2"
+    },
+    {
+      "$oid": "68c0014bfb355c2c60acc5e5"
+    },
+    {
+      "$oid": "68c00158fb355c2c60acc5e8"
+    },
+    {
+      "$oid": "68c00167fb355c2c60acc5eb"
+    },
+    {
+      "$oid": "68c00176fb355c2c60acc5ee"
+    },
+    {
+      "$oid": "68c00183fb355c2c60acc5f1"
+    },
+    {
+      "$oid": "68c00192fb355c2c60acc5f4"
+    },
+    {
+      "$oid": "68c0019ffb355c2c60acc5f7"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675afbf3f8c1e38fe57df280"
+  },
+  "title": "Relationships",
+  "parentCategory": "Personal Decisions",
+  "description": "Weigh decisions about friendships and partnerships.",
+  "image": "../assets/images/personal-friends-001.svg",
+  "decisions": [
+    {
+      "$oid": "675ae4058811b601343a931e"
+    },
+    {
+      "$oid": "675ae4068811b601343a9320"
+    },
+    {
+      "$oid": "675ae4068811b601343a9322"
+    },
+    {
+      "$oid": "675ae4078811b601343a9324"
+    },
+    {
+      "$oid": "675ae4078811b601343a9326"
+    },
+    {
+      "$oid": "675ae4088811b601343a9328"
+    },
+    {
+      "$oid": "675ae4088811b601343a932a"
+    },
+    {
+      "$oid": "675ae4098811b601343a932c"
+    },
+    {
+      "$oid": "675ae4098811b601343a932e"
+    },
+    {
+      "$oid": "675ae40a8811b601343a9330"
+    },
+    {
+      "$oid": "675ae40a8811b601343a9332"
+    },
+    {
+      "$oid": "675ae40b8811b601343a9334"
+    },
+    {
+      "$oid": "675ae40b8811b601343a9336"
+    },
+    {
+      "$oid": "675ae40c8811b601343a9338"
+    }
+  ],
+  "__v": 0
+}]

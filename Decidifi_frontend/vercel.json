@@ -1,14 +1,5 @@
 {
-  "builds": [
-    {
-      "src": "Decidifi_frontend/vite.config.js",
-      "use": "@vercel/static-build"
-    }
-  ],
   "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "Decidifi_frontend/index.html"
-    }
+    { "src": "/(.*)", "dest": "/index.html" }
   ]
 }
